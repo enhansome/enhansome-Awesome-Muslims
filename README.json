@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T02:55:12Z",
+            "last_commit": "2026-08-15T17:57:54Z",
             "owner": "quran",
             "repo": "quran_android",
             "stars": 2382
@@ -424,7 +424,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T02:55:12Z",
+            "last_commit": "2026-08-15T17:57:54Z",
             "owner": "quran",
             "repo": "quran_android",
             "stars": 2382
@@ -632,7 +632,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T19:32:10Z",
+            "last_commit": "2026-08-15T20:37:04Z",
             "owner": "quran",
             "repo": "quran-ios",
             "stars": 582
@@ -680,10 +680,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T09:00:22Z",
+            "last_commit": "2026-08-15T20:15:10Z",
             "owner": "adelpro",
             "repo": "open-mushaf-native",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -781,7 +781,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T04:40:59Z",
+            "last_commit": "2026-08-15T03:29:27Z",
             "owner": "rn0x",
             "repo": "altaqwaa-desktop",
             "stars": 261
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:26:27.820Z",
+    "last_updated": "2026-08-16T01:38:10.435Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
