@@ -292,10 +292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T17:57:54Z",
+            "last_commit": "2026-08-16T22:46:12Z",
             "owner": "quran",
             "repo": "quran_android",
-            "stars": 2382
+            "stars": 2384
           }
         },
         {
@@ -424,10 +424,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T17:57:54Z",
+            "last_commit": "2026-08-16T22:46:12Z",
             "owner": "quran",
             "repo": "quran_android",
-            "stars": 2382
+            "stars": 2384
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2024-12-02T23:23:09Z",
             "owner": "Isko21",
             "repo": "Mi-raj",
-            "stars": 39
+            "stars": 38
           }
         },
         {
@@ -632,7 +632,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-15T20:37:04Z",
+            "last_commit": "2026-08-16T23:37:54Z",
             "owner": "quran",
             "repo": "quran-ios",
             "stars": 582
@@ -781,10 +781,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T03:29:27Z",
+            "last_commit": "2026-08-16T03:38:54Z",
             "owner": "rn0x",
             "repo": "altaqwaa-desktop",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2026-06-02T09:38:24Z",
             "owner": "ahmedeltaher",
             "repo": "azan-mcp",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -1263,7 +1263,7 @@
             "last_commit": "2026-02-21T10:11:53Z",
             "owner": "quran",
             "repo": "quran.com-images",
-            "stars": 496
+            "stars": 498
           }
         },
         {
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:38:10.435Z",
+    "last_updated": "2026-08-17T01:35:48.555Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
