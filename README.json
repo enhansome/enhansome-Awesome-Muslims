@@ -42,7 +42,7 @@
             "last_commit": "2026-06-18T15:23:31Z",
             "owner": "quran",
             "repo": "audio.quran.com",
-            "stars": 175
+            "stars": 176
           }
         },
         {
@@ -466,7 +466,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-10T00:06:57Z",
+            "last_commit": "2026-08-18T01:13:54Z",
             "owner": "3llomi",
             "repo": "AyatuRabbi_Quran",
             "stars": 17
@@ -632,10 +632,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T23:37:54Z",
+            "last_commit": "2026-08-18T00:27:35Z",
             "owner": "quran",
             "repo": "quran-ios",
-            "stars": 582
+            "stars": 583
           }
         },
         {
@@ -683,7 +683,7 @@
             "last_commit": "2026-08-15T20:15:10Z",
             "owner": "adelpro",
             "repo": "open-mushaf-native",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -781,10 +781,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T03:38:54Z",
+            "last_commit": "2026-08-17T03:39:41Z",
             "owner": "rn0x",
             "repo": "altaqwaa-desktop",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -1043,7 +1043,7 @@
             "last_commit": "2026-08-10T23:20:20Z",
             "owner": "batoulapps",
             "repo": "adhan-js",
-            "stars": 528
+            "stars": 527
           }
         },
         {
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:35:48.555Z",
+    "last_updated": "2026-08-18T01:25:46.236Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
