@@ -14,7 +14,7 @@
             "last_commit": "2025-10-13T11:18:24Z",
             "owner": "quran",
             "repo": "quran.com-frontend-v2",
-            "stars": 485
+            "stars": 484
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T11:53:39Z",
+            "last_commit": "2026-08-18T13:47:29Z",
             "owner": "abdessamadbettal",
             "repo": "Falah",
             "stars": 141
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T22:46:12Z",
+            "last_commit": "2026-08-18T18:53:35Z",
             "owner": "quran",
             "repo": "quran_android",
             "stars": 2384
@@ -424,7 +424,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T22:46:12Z",
+            "last_commit": "2026-08-18T18:53:35Z",
             "owner": "quran",
             "repo": "quran_android",
             "stars": 2384
@@ -632,7 +632,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-18T00:27:35Z",
+            "last_commit": "2026-08-18T22:20:29Z",
             "owner": "quran",
             "repo": "quran-ios",
             "stars": 583
@@ -669,7 +669,7 @@
             "last_commit": "2026-06-25T07:32:46Z",
             "owner": "meypod",
             "repo": "al-azan",
-            "stars": 278
+            "stars": 279
           }
         },
         {
@@ -680,7 +680,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T20:15:10Z",
+            "last_commit": "2026-08-18T18:54:12Z",
             "owner": "adelpro",
             "repo": "open-mushaf-native",
             "stars": 43
@@ -781,7 +781,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T03:39:41Z",
+            "last_commit": "2026-08-18T03:35:15Z",
             "owner": "rn0x",
             "repo": "altaqwaa-desktop",
             "stars": 263
@@ -1153,7 +1153,7 @@
             "last_commit": "2026-02-08T13:30:11Z",
             "owner": "medyas",
             "repo": "flutter_qiblah",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2025-09-19T12:06:33Z",
             "owner": "iamriajul",
             "repo": "adhan-dart",
-            "stars": 105
+            "stars": 106
           }
         }
       ],
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:25:46.236Z",
+    "last_updated": "2026-08-19T01:26:57.999Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
