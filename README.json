@@ -1,1339 +1,1588 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Quran",
-          "description": "The official source code repository for Quran.com",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2025-10-13T11:18:24Z",
-            "owner": "quran",
-            "repo": "quran.com-frontend-v2",
-            "stars": 484
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quran",
+              "description": "The official source code repository for Quran.com",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 170250376,
+                "language": "Ruby",
+                "last_commit": "2025-10-13T11:18:24Z",
+                "owner": "quran",
+                "repo": "quran.com-frontend-v2",
+                "stars": 484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pray Times",
+              "description": "an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5491859,
+                "language": null,
+                "last_commit": "2023-05-14T05:46:43Z",
+                "owner": "abodehq",
+                "repo": "Pray-Times",
+                "stars": 233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuranicAudio",
+              "description": "The official Repository of https://quranicaudio.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60311780,
+                "language": "Svelte",
+                "last_commit": "2026-06-18T15:23:31Z",
+                "owner": "quran",
+                "repo": "audio.quran.com",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Falah.io",
+              "description": "An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 884817601,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T13:47:29Z",
+                "owner": "abdessamadbettal",
+                "repo": "Falah",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hijri JS",
+              "description": "A Hijri converter with Javasript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8121709,
+                "language": "JavaScript",
+                "last_commit": "2023-01-31T02:50:08Z",
+                "owner": "xsoh",
+                "repo": "Hijri.js",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quran Multi",
+              "description": "Read Quran in 90+ Languages. Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319010451,
+                "language": "HTML",
+                "last_commit": "2024-12-01T01:57:04Z",
+                "owner": "fawazahmed0",
+                "repo": "quran",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hadith Multi",
+              "description": "Hadiths with Multiple Grades & Languages Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485511811,
+                "language": "JavaScript",
+                "last_commit": "2026-08-01T02:10:22Z",
+                "owner": "fawazahmed0",
+                "repo": "hadiths",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Muslim Mate Website",
+              "description": "A website to display dashboard for information needed daily for Muslim (Prayer times, Hijri Calendar, Weather)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93315063,
+                "language": "HTML",
+                "last_commit": "2017-06-13T11:29:29Z",
+                "owner": "fekracomputers",
+                "repo": "MuslimMateWebsite",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salat Vue",
+              "description": "Worldwide prayers times web application Preview.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360708249,
+                "language": "Vue",
+                "last_commit": "2025-05-14T10:52:40Z",
+                "owner": "elattariyassine",
+                "repo": "salat-vue",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuranIPFS",
+              "description": "Quran over IPFS streaming. Preview.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330342248,
+                "language": "HTML",
+                "last_commit": "2022-11-02T19:37:43Z",
+                "owner": "adelpro",
+                "repo": "Quranipfs",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Time For Salah Website",
+              "description": "A Muslim Prayer Timing Website build with pure JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257395899,
+                "language": "CSS",
+                "last_commit": "2022-12-12T13:26:51Z",
+                "owner": "buildwithmalik",
+                "repo": "TimeForSalahWebsite",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Openadhan",
+              "description": "Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). Preview.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441539557,
+                "language": "JavaScript",
+                "last_commit": "2024-10-10T13:18:12Z",
+                "owner": "adelpro",
+                "repo": "Openadhan",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quran Reader",
+              "description": "Quran Reader in Arabic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107890843,
+                "language": "JavaScript",
+                "last_commit": "2018-11-12T17:12:10Z",
+                "owner": "mohdovais",
+                "repo": "quran",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Check-hadith",
+              "description": "Quran over IPFS streaming web applicatiion PWA. Preview.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411025326,
+                "language": "HTML",
+                "last_commit": "2024-12-28T16:18:58Z",
+                "owner": "adelpro",
+                "repo": "check-hadith",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Next Salat",
+              "description": "A simple web app to browse prayer times in Morocco Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 540156967,
+                "language": "JavaScript",
+                "last_commit": "2025-12-21T17:34:14Z",
+                "owner": "ayoubsousali",
+                "repo": "next-salat",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quranfi",
+              "description": "A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945634453,
+                "language": "TypeScript",
+                "last_commit": "2026-03-04T04:33:15Z",
+                "owner": "Quranfi-Project",
+                "repo": "quranfi-web",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prayer Times & Mosques Finder",
+              "description": "A simple web app get prayer times based on GPS location, and find the nearest Mosques. Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826647548,
+                "language": "JavaScript",
+                "last_commit": "2024-09-18T10:55:30Z",
+                "owner": "jadmadi",
+                "repo": "prayer-times-mosque-finder",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fasting Times",
+              "description": "Calculates Sunnah, voluntary, and prohibited fasting days and times. Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1246567889,
+                "language": null,
+                "last_commit": "2026-08-09T13:58:23Z",
+                "owner": "edwgiz",
+                "repo": "tayyib-fasting-calendar",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Apps"
         },
         {
-          "node_type": "item",
-          "title": "Pray Times",
-          "description": "an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-14T05:46:43Z",
-            "owner": "abodehq",
-            "repo": "Pray-Times",
-            "stars": 233
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Quran",
+                  "description": "a quran reading application for android",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 483644,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-18T18:53:35Z",
+                    "owner": "quran",
+                    "repo": "quran_android",
+                    "stars": 2384
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Namaz Vakti Android",
+                  "description": "A useful Application with a set of tools needed by any muslim.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48848634,
+                    "language": "Kotlin",
+                    "last_commit": "2026-05-10T20:47:46Z",
+                    "owner": "metinkale38",
+                    "repo": "prayer-times-android",
+                    "stars": 264
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Qurany App",
+                  "description": "Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177177812,
+                    "language": "Java",
+                    "last_commit": "2026-07-22T16:59:22Z",
+                    "owner": "MahmoudMabrok",
+                    "repo": "QuranyApp",
+                    "stars": 226
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muslim App",
+                  "description": "Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 255736768,
+                    "language": "Java",
+                    "last_commit": "2022-10-13T14:39:52Z",
+                    "owner": "choubari",
+                    "repo": "Muslim-App",
+                    "stars": 179
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QuranOnAndroid",
+                  "description": "Free open source app to listen Quran online.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56015216,
+                    "language": "Java",
+                    "last_commit": "2020-11-20T23:26:09Z",
+                    "owner": "hussien89aa",
+                    "repo": "QuranOnAndroid",
+                    "stars": 125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NoorUlHuda",
+                  "description": "Noor-Ul-Huda is an offline Quran app with Prayer Time and Duas (supplications).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 370055802,
+                    "language": "Java",
+                    "last_commit": "2024-06-12T05:02:55Z",
+                    "owner": "mirfatif",
+                    "repo": "NoorUlHuda",
+                    "stars": 106
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wazaker",
+                  "description": "An islamic app to know about islam, morning and evening azkar, qibla direction, counter.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 256689906,
+                    "language": "Kotlin",
+                    "last_commit": "2025-02-05T12:05:52Z",
+                    "owner": "hamza94max",
+                    "repo": "Wazaker",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muslim Mate",
+                  "description": "an android application to organize Muslims life.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 93747304,
+                    "language": "Java",
+                    "last_commit": "2017-06-12T12:26:47Z",
+                    "owner": "fekracomputers",
+                    "repo": "MuslimMateAndroid",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kiblat Campass",
+                  "description": "an app to find Quibla Direction.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 231798815,
+                    "language": "Java",
+                    "last_commit": "2020-01-04T17:08:39Z",
+                    "owner": "najamiqbal",
+                    "repo": "kiblat-Campass-android",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Quran for Android",
+                  "description": "a Quran.com offical Android App",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 483644,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-18T18:53:35Z",
+                    "owner": "quran",
+                    "repo": "quran_android",
+                    "stars": 2384
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AlQuran Android",
+                  "description": "Source Code Tutorial App of Al-Quran",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427392798,
+                    "language": "Kotlin",
+                    "last_commit": "2021-11-13T03:47:56Z",
+                    "owner": "AzharRivaldi",
+                    "repo": "AlQuran-Android",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LaamMuslimAndroid",
+                  "description": "Project to find out the prayer schedule, reading the quran, etc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255810728,
+                    "language": "Kotlin",
+                    "last_commit": "2020-05-01T10:03:30Z",
+                    "owner": "luthfiarifin",
+                    "repo": "LaamMuslimAndroid",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ayatu Rabbi - Quran",
+                  "description": "The Easiest app to Read Holy Quran",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 303486903,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-18T01:13:54Z",
+                    "owner": "3llomi",
+                    "repo": "AyatuRabbi_Quran",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sunnah Assistant",
+                  "description": "An android app for setting reminders that help you become a better person.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 196643023,
+                    "language": "Kotlin",
+                    "last_commit": "2026-04-15T16:31:59Z",
+                    "owner": "saidmsaid81",
+                    "repo": "SunnahAssistant",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Al Quran",
+                  "description": "Al Quran is a 100% Free and Open Source App without any Ads. This is a simple (Text based) Quran app for Android.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 599215420,
+                    "language": "Kotlin",
+                    "last_commit": "2023-04-01T18:27:22Z",
+                    "owner": "thefaisalurrehman",
+                    "repo": "Al-Quran",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Kotlin"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Holy Quran",
+                  "description": "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274574674,
+                    "language": "Dart",
+                    "last_commit": "2025-08-20T16:22:03Z",
+                    "owner": "mhmzdev",
+                    "repo": "the-holy-quran-app",
+                    "stars": 886
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Alfanous",
+                  "description": "an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4617289,
+                    "language": "Python",
+                    "last_commit": "2026-06-14T00:57:27Z",
+                    "owner": "Alfanous-team",
+                    "repo": "alfanous",
+                    "stars": 287
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quran Flutter",
+                  "description": "Quran made with Flutter for All platforms",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 225049678,
+                    "language": "Dart",
+                    "last_commit": "2024-08-12T16:48:16Z",
+                    "owner": "SadaqaWorks",
+                    "repo": "Quran-Flutter",
+                    "stars": 231
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "quran_app",
+                  "description": "Quran app built with Flutter",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 167754458,
+                    "language": "Dart",
+                    "last_commit": "2021-08-29T08:58:26Z",
+                    "owner": "yunusefendi52",
+                    "repo": "quran_app",
+                    "stars": 185
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Al-quran-Al-karim",
+                  "description": "The Noble Qur’an - Hafs from Asim [Arabic Edition]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 232937746,
+                    "language": "Dart",
+                    "last_commit": "2023-01-08T11:19:43Z",
+                    "owner": "HoussemTN",
+                    "repo": "Al-quran-Al-karim",
+                    "stars": 117
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prayer Times",
+                  "description": "A turkish flutter app to shw prayer times.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 264505547,
+                    "language": "Dart",
+                    "last_commit": "2023-03-26T02:38:31Z",
+                    "owner": "flutterturkey",
+                    "repo": "prayer-times",
+                    "stars": 46
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mi'raj",
+                  "description": "An app that helps all Muslims around the world perform daily worship, Al-Quran, Qibla direction, Prayer times.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 468940872,
+                    "language": "Dart",
+                    "last_commit": "2024-12-02T23:23:09Z",
+                    "owner": "Isko21",
+                    "repo": "Mi-raj",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SimplyQibla",
+                  "description": "Minimalist, accurate, and privacy-focused qibla app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 788359967,
+                    "language": "Dart",
+                    "last_commit": "2026-07-10T23:33:27Z",
+                    "owner": "TowardsIkhlaas",
+                    "repo": "simply_qibla",
+                    "stars": 28
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Flutter"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Quran Ios",
+                  "description": "A quran reading application for iOS written in Swift.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55992036,
+                    "language": "Swift",
+                    "last_commit": "2026-08-19T04:24:52Z",
+                    "owner": "quran",
+                    "repo": "quran-ios",
+                    "stars": 583
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prayer Times",
+                  "description": "Islamic Prayer (salah) Time calculation written in swift.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34722107,
+                    "language": "Swift",
+                    "last_commit": "2020-02-17T14:48:50Z",
+                    "owner": "ashikahmad",
+                    "repo": "PrayerTimes-Swift",
+                    "stars": 65
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Swift"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Al-Azan",
+                  "description": "Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 497678561,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-25T07:32:46Z",
+                    "owner": "meypod",
+                    "repo": "al-azan",
+                    "stars": 279
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open-Mushaf-Native",
+                  "description": "Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 853441665,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T18:54:12Z",
+                    "owner": "adelpro",
+                    "repo": "open-mushaf-native",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muslim",
+                  "description": "A quran and azkar reading application for android written in react native with TypeScript.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509846144,
+                    "language": "TypeScript",
+                    "last_commit": "2024-12-05T15:09:44Z",
+                    "owner": "abdenassar01",
+                    "repo": "muslim",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Check-hadith-native",
+                  "description": "Check hadith nabawi using dorar API. Preview.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 527281866,
+                    "language": "JavaScript",
+                    "last_commit": "2022-10-25T15:13:25Z",
+                    "owner": "adelpro",
+                    "repo": "check-hadith-native",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "React Native"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Apps"
         },
         {
-          "node_type": "item",
-          "title": "QuranicAudio",
-          "description": "The official Repository of https://quranicaudio.com/",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Svelte",
-            "last_commit": "2026-06-18T15:23:31Z",
-            "owner": "quran",
-            "repo": "audio.quran.com",
-            "stars": 176
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Prayer Times",
+                  "description": "Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 154734705,
+                    "language": "Java",
+                    "last_commit": "2026-01-06T15:43:41Z",
+                    "owner": "HouariZegai",
+                    "repo": "prayer-times",
+                    "stars": 184
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Azkar",
+                  "description": "Desktop Application shows notification for Azkar that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 290850826,
+                    "language": "Java",
+                    "last_commit": "2026-08-08T15:03:54Z",
+                    "owner": "AbdelrahmanBayoumi",
+                    "repo": "Azkar-App",
+                    "stars": 140
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Salawat",
+                  "description": "A prayer times and Adhan application for Windows, macOS and GNU/Linux written in Java.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 488328076,
+                    "language": "Java",
+                    "last_commit": "2023-09-27T14:03:40Z",
+                    "owner": "DBChoco",
+                    "repo": "Salawat",
+                    "stars": 32
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Altaqwaa",
+                  "description": "An electron-based Azkar/prayer times application for Windows & Linux.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 461658430,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-19T03:36:54Z",
+                    "owner": "rn0x",
+                    "repo": "altaqwaa-desktop",
+                    "stars": 263
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muezzin",
+                  "description": "A prayer times and Adhan application for Windows, macOS and GNU/Linux.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 459335904,
+                    "language": "JavaScript",
+                    "last_commit": "2024-02-18T20:22:32Z",
+                    "owner": "DBChoco",
+                    "repo": "Muezzin",
+                    "stars": 182
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hisn-al-Muslim",
+                  "description": "An app built upon the \"Hisn-al-Muslim\" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 594557890,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-08T18:25:49Z",
+                    "owner": "rn0x",
+                    "repo": "hisnmuslim_app",
+                    "stars": 19
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Javascript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Quran Companion",
+                  "description": "cross-platform Quran reader & player written in Qt/C++.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 615940532,
+                    "language": "C++",
+                    "last_commit": "2026-07-17T16:26:48Z",
+                    "owner": "0xzer0x",
+                    "repo": "quran-companion",
+                    "stars": 226
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Next Prayer",
+                  "description": "Islamic prayers reminder for Linux status bar.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 404178720,
+                    "language": "C",
+                    "last_commit": "2023-04-02T00:00:38Z",
+                    "owner": "AbdeltwabMF",
+                    "repo": "next-prayer",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QuranApp",
+                  "description": "Quran app is an easy to use Quran reader with support for translation in multiple languages and stream beautiful Quran recitation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 331922149,
+                    "language": "C++",
+                    "last_commit": "2023-08-25T18:40:03Z",
+                    "owner": "Muslim-Programmers",
+                    "repo": "QuranApp-Linux",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C/C++"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop Apps"
         },
         {
-          "node_type": "item",
-          "title": "Falah.io",
-          "description": "An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. Preview",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:47:29Z",
-            "owner": "abdessamadbettal",
-            "repo": "Falah",
-            "stars": 141
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quran API Multi",
+              "description": "Free Quran API Service with 90+ different languages and 400+ translations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285650585,
+                "language": null,
+                "last_commit": "2026-03-15T17:50:02Z",
+                "owner": "fawazahmed0",
+                "repo": "quran-api",
+                "stars": 1159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quran API",
+              "description": "Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252468317,
+                "language": "JavaScript",
+                "last_commit": "2025-07-23T07:07:12Z",
+                "owner": "gadingnst",
+                "repo": "quran-api",
+                "stars": 818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quran JSON",
+              "description": "Quran JSON ~ 6236 verses, 114 surah, 30 Juz",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40876659,
+                "language": null,
+                "last_commit": "2021-02-16T01:38:45Z",
+                "owner": "semarketir",
+                "repo": "quranjson",
+                "stars": 806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hadith API",
+              "description": "Free Hadith API Service with Multiple Languages and Multiple Grades",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479582254,
+                "language": null,
+                "last_commit": "2026-06-03T04:16:49Z",
+                "owner": "fawazahmed0",
+                "repo": "hadith-api",
+                "stars": 543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sunnah API",
+              "description": "The official API of sunnah.com for retrieving information about hadith collections.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74298902,
+                "language": "Python",
+                "last_commit": "2026-07-19T05:24:16Z",
+                "owner": "sunnah-com",
+                "repo": "api",
+                "stars": 492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hadith JSON",
+              "description": "A database of the hadiths of the Prophet from 17 books, including the nine books and others.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636869460,
+                "language": "TypeScript",
+                "last_commit": "2026-03-28T11:05:52Z",
+                "owner": "AhmedBaset",
+                "repo": "hadith-json",
+                "stars": 301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quran App Data",
+              "description": "A list of Quran Suras in jsonn, images, tafaseer, hadith books json.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329273479,
+                "language": null,
+                "last_commit": "2023-02-15T06:18:44Z",
+                "owner": "Mohamed-Nagdy",
+                "repo": "Quran-App-Data",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Hadith Data",
+              "description": "Open Hadith Library of the databases of 9 different books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95475818,
+                "language": null,
+                "last_commit": "2022-07-30T12:35:58Z",
+                "owner": "mhashim6",
+                "repo": "Open-Hadith-Data",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azkar DB",
+              "description": "a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141050438,
+                "language": null,
+                "last_commit": "2024-09-19T04:04:47Z",
+                "owner": "osamayy",
+                "repo": "azkar-db",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quran CSV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24495870,
+                "language": null,
+                "last_commit": "2022-12-12T11:56:18Z",
+                "owner": "azvox",
+                "repo": "quran-csv",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "APIs & Data"
         },
         {
-          "node_type": "item",
-          "title": "Hijri JS",
-          "description": "A Hijri converter with Javasript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-31T02:50:08Z",
-            "owner": "xsoh",
-            "repo": "Hijri.js",
-            "stars": 83
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Adhan Java",
+                  "description": "High precision Islamic prayer time library for Java",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148370332,
+                    "language": "Kotlin",
+                    "last_commit": "2026-07-04T19:18:29Z",
+                    "owner": "batoulapps",
+                    "repo": "adhan-kotlin",
+                    "stars": 221
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hijri Date Picker",
+                  "description": "A library that offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers for Android 5.0 (API 21) +.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44434530,
+                    "language": "Java",
+                    "last_commit": "2022-11-27T07:38:03Z",
+                    "owner": "alhazmy13",
+                    "repo": "HijriDatePicker",
+                    "stars": 145
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ITL Java",
+                  "description": "A Java library for calculating prayer (salat) times, Hijri date, and qibla direction, based on ITL (Islamic Tools and Libraries)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13177147,
+                    "language": "Java",
+                    "last_commit": "2017-04-23T13:56:45Z",
+                    "owner": "fikr4n",
+                    "repo": "itl-java",
+                    "stars": 73
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ayah Intellij",
+                  "description": "Get a verse(an ayah) from the Quran during your coding session stay connected with the words of Allah.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 526879402,
+                    "language": "Java",
+                    "last_commit": "2026-08-10T21:42:48Z",
+                    "owner": "0x61nas",
+                    "repo": "Ayah-intellij",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quran Verses",
+                  "description": "a library to show random Quran verse in android app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 125262469,
+                    "language": "Java",
+                    "last_commit": "2018-04-19T10:16:52Z",
+                    "owner": "bullheadandplato",
+                    "repo": "quranVerses",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Azan Library",
+                  "description": "Library aiming to calculate prayer time with one line code, if you implement prayer time application , there is no need to do this headache again.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 73611561,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T09:38:24Z",
+                    "owner": "ahmedeltaher",
+                    "repo": "azan-mcp",
+                    "stars": 383
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muslim DATA",
+                  "description": "Best Muslim android library that provides: Prayer Times, Offline Geocoder, Names of Allah, and Azkars.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274667170,
+                    "language": "Kotlin",
+                    "last_commit": "2025-07-17T18:41:35Z",
+                    "owner": "my-prayers",
+                    "repo": "muslim-data-android",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PrayerWatchFace",
+                  "description": "Prayer Times on your Watch",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 569805694,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-02T09:38:32Z",
+                    "owner": "3llomi",
+                    "repo": "PrayerWatchFace",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Kotlin"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Adhan Swift",
+                  "description": "High precision Islamic prayer time library for Swift",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148365174,
+                    "language": "Swift",
+                    "last_commit": "2026-08-09T21:44:08Z",
+                    "owner": "batoulapps",
+                    "repo": "adhan-swift",
+                    "stars": 227
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muslim Data",
+                  "description": "an Islamic library that provides Prayer Times (fixed and calculated), Offline Geocoder, Location Search, Azkars (Hisnul Muslim) and 99 Names of Allah.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150542720,
+                    "language": "Swift",
+                    "last_commit": "2025-07-17T16:48:25Z",
+                    "owner": "my-prayers",
+                    "repo": "muslim-data-ios",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Swift"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Adhan JS",
+                  "description": "High precision Islamic prayer time library for Javascript",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148370774,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-10T23:20:20Z",
+                    "owner": "batoulapps",
+                    "repo": "adhan-js",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hijri Date Picker",
+                  "description": "A simple and reusble react component for hijir date pickr",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133411258,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-03T17:53:59Z",
+                    "owner": "abublihi",
+                    "repo": "hijri-date-picker",
+                    "stars": 28
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Javascript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PyQuran",
+                  "description": "a Python package which provides tools for Quranic Analysis and Arabic texts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 139259534,
+                    "language": "Python",
+                    "last_commit": "2024-05-24T13:40:24Z",
+                    "owner": "hci-lab",
+                    "repo": "PyQuran",
+                    "stars": 155
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pyIslam",
+                  "description": "a Python library to calculate prayer times, hijri date, qiblah direction and more",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16716541,
+                    "language": "Python",
+                    "last_commit": "2025-06-15T23:01:40Z",
+                    "owner": "abougouffa",
+                    "repo": "pyIslam",
+                    "stars": 115
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HijriDate",
+                  "description": "a Python package to convert accurately between Hijri and Gregorian dates using the Umm al-Qura calendar.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155050699,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T07:09:23Z",
+                    "owner": "dralshehri",
+                    "repo": "hijridate",
+                    "stars": 87
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Adhan Python",
+                  "description": "High precision Islamic prayer time library for Python.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 521920425,
+                    "language": "Python",
+                    "last_commit": "2024-04-06T01:20:40Z",
+                    "owner": "alphahm",
+                    "repo": "adhanpy",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python Quran ODOA",
+                  "description": "library to get random ayah within quran surah for supporting \"ODOA\" (One Day One Ayah) campaign.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43231672,
+                    "language": "Python",
+                    "last_commit": "2022-07-03T06:53:15Z",
+                    "owner": "Keda87",
+                    "repo": "python-quran-odoa",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Flutter Qiblah",
+                  "description": "a plugin that allows you to display Qiblah direction in you app with support for both Android and iOS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242214937,
+                    "language": "Dart",
+                    "last_commit": "2026-02-08T13:30:11Z",
+                    "owner": "medyas",
+                    "repo": "flutter_qiblah",
+                    "stars": 153
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Adhan Dart / Flutter",
+                  "description": "Adhan Dart is a well tested and well documented library for calculating Islamic prayer times.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 271342169,
+                    "language": "Dart",
+                    "last_commit": "2025-09-19T12:06:33Z",
+                    "owner": "iamriajul",
+                    "repo": "adhan-dart",
+                    "stars": 106
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dart & Flutter"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries & Plugins"
         },
         {
-          "node_type": "item",
-          "title": "Quran Multi",
-          "description": "Read Quran in 90+ Languages. Preview",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-12-01T01:57:04Z",
-            "owner": "fawazahmed0",
-            "repo": "quran",
-            "stars": 25
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quran Extension",
+              "description": "Replace the new tab page with Quran verses and beautiful nature pictures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171878001,
+                "language": "JavaScript",
+                "last_commit": "2023-04-16T19:25:03Z",
+                "owner": "shahednasser",
+                "repo": "quran-extension",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prayer Times Extension",
+              "description": "Prayer Time Calculation based on Geolocation for Google Chrome",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855002,
+                "language": "TypeScript",
+                "last_commit": "2023-02-28T13:53:50Z",
+                "owner": "mohamedmansour",
+                "repo": "prayer-times-extension",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adhan Time",
+              "description": "Adhan time Raycast extension for MacOs, download it from Raycast Store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536305217,
+                "language": "TypeScript",
+                "last_commit": "2023-01-18T20:23:53Z",
+                "owner": "mzaien",
+                "repo": "adhan-time",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salati",
+              "description": "Muslims prayer time extension for Google Chrome.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98913423,
+                "language": "JavaScript",
+                "last_commit": "2022-07-13T08:51:24Z",
+                "owner": "slimaneakalie",
+                "repo": "salati",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Muslim Companion",
+              "description": "A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface. Download it from Chrome Web Store",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940960055,
+                "language": "JavaScript",
+                "last_commit": "2025-03-12T05:28:05Z",
+                "owner": "CosmicCoder13",
+                "repo": "muslim-companion",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extensions"
         },
         {
-          "node_type": "item",
-          "title": "Hadith Multi",
-          "description": "Hadiths with Multiple Grades & Languages Preview",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-01T02:10:22Z",
-            "owner": "fawazahmed0",
-            "repo": "hadiths",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muslim Mate Website",
-          "description": "A website to display dashboard for information needed daily for Muslim (Prayer times, Hijri Calendar, Weather)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-06-13T11:29:29Z",
-            "owner": "fekracomputers",
-            "repo": "MuslimMateWebsite",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salat Vue",
-          "description": "Worldwide prayers times web application Preview.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-05-14T10:52:40Z",
-            "owner": "elattariyassine",
-            "repo": "salat-vue",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QuranIPFS",
-          "description": "Quran over IPFS streaming. Preview.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-11-02T19:37:43Z",
-            "owner": "adelpro",
-            "repo": "Quranipfs",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Time For Salah Website",
-          "description": "A Muslim Prayer Timing Website build with pure JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2022-12-12T13:26:51Z",
-            "owner": "buildwithmalik",
-            "repo": "TimeForSalahWebsite",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Openadhan",
-          "description": "Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). Preview.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-10T13:18:12Z",
-            "owner": "adelpro",
-            "repo": "Openadhan",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quran Reader",
-          "description": "Quran Reader in Arabic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-11-12T17:12:10Z",
-            "owner": "mohdovais",
-            "repo": "quran",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Check-hadith",
-          "description": "Quran over IPFS streaming web applicatiion PWA. Preview.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-12-28T16:18:58Z",
-            "owner": "adelpro",
-            "repo": "check-hadith",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Next Salat",
-          "description": "A simple web app to browse prayer times in Morocco Preview",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-21T17:34:14Z",
-            "owner": "ayoubsousali",
-            "repo": "next-salat",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quranfi",
-          "description": "A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. Preview",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-04T04:33:15Z",
-            "owner": "Quranfi-Project",
-            "repo": "quranfi-web",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prayer Times & Mosques Finder",
-          "description": "A simple web app get prayer times based on GPS location, and find the nearest Mosques. Preview",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-18T10:55:30Z",
-            "owner": "jadmadi",
-            "repo": "prayer-times-mosque-finder",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fasting Times",
-          "description": "Calculates Sunnah, voluntary, and prohibited fasting days and times. Preview",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-09T13:58:23Z",
-            "owner": "edwgiz",
-            "repo": "tayyib-fasting-calendar",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Qafiyah",
-          "description": "An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Salat",
-          "description": "Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) Preview.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Quranaho",
-          "description": "Open Source Quran",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quran Image Generator",
+              "description": "a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201075,
+                "language": "Perl",
+                "last_commit": "2026-02-21T10:11:53Z",
+                "owner": "quran",
+                "repo": "quran.com-images",
+                "stars": 498
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ayah Detection",
+              "description": "python scripts to detect ayah markers from quran images .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27692583,
+                "language": "Python",
+                "last_commit": "2023-04-02T13:41:49Z",
+                "owner": "quran",
+                "repo": "ayah-detection",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Django Quran",
+              "description": "Quranic models and helpers for use in Django projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367699,
+                "language": "Python",
+                "last_commit": "2016-07-14T22:26:54Z",
+                "owner": "idris",
+                "repo": "django-quran",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hijri",
+              "description": "a cal-like command-line tool for Hijri (Islamic) dates — month/year calendars, Gregorian↔Hijri conversion, and Islamic events (Umm al-Qura).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273981244,
+                "language": "Rust",
+                "last_commit": "2026-07-09T05:45:26Z",
+                "owner": "UtmostBoundary",
+                "repo": "hijri",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IslamicCLI",
+              "description": "a simple, cross-platform command-line application written in C# that provides daily Islamic utilities directly in the terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1125989905,
+                "language": "Java",
+                "last_commit": "2026-08-02T15:54:33Z",
+                "owner": "IcyDrae",
+                "repo": "Islamic",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
         }
       ],
-      "title": "Web Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mobile Apps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quran",
-          "description": "a quran reading application for android",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T18:53:35Z",
-            "owner": "quran",
-            "repo": "quran_android",
-            "stars": 2384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Namaz Vakti Android",
-          "description": "A useful Application with a set of tools needed by any muslim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-05-10T20:47:46Z",
-            "owner": "metinkale38",
-            "repo": "prayer-times-android",
-            "stars": 264
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Qurany App",
-          "description": "Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-22T16:59:22Z",
-            "owner": "MahmoudMabrok",
-            "repo": "QuranyApp",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muslim App",
-          "description": "Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2022-10-13T14:39:52Z",
-            "owner": "choubari",
-            "repo": "Muslim-App",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QuranOnAndroid",
-          "description": "Free open source app to listen Quran online.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-11-20T23:26:09Z",
-            "owner": "hussien89aa",
-            "repo": "QuranOnAndroid",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NoorUlHuda",
-          "description": "Noor-Ul-Huda is an offline Quran app with Prayer Time and Duas (supplications).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-06-12T05:02:55Z",
-            "owner": "mirfatif",
-            "repo": "NoorUlHuda",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wazaker",
-          "description": "An islamic app to know about islam, morning and evening azkar, qibla direction, counter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-02-05T12:05:52Z",
-            "owner": "hamza94max",
-            "repo": "Wazaker",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muslim Mate",
-          "description": "an android application to organize Muslims life.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-06-12T12:26:47Z",
-            "owner": "fekracomputers",
-            "repo": "MuslimMateAndroid",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kiblat Campass",
-          "description": "an app to find Quibla Direction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-01-04T17:08:39Z",
-            "owner": "najamiqbal",
-            "repo": "kiblat-Campass-android",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quran for Android",
-          "description": "a Quran.com offical Android App",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T18:53:35Z",
-            "owner": "quran",
-            "repo": "quran_android",
-            "stars": 2384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AlQuran Android",
-          "description": "Source Code Tutorial App of Al-Quran",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-11-13T03:47:56Z",
-            "owner": "AzharRivaldi",
-            "repo": "AlQuran-Android",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LaamMuslimAndroid",
-          "description": "Project to find out the prayer schedule, reading the quran, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-05-01T10:03:30Z",
-            "owner": "luthfiarifin",
-            "repo": "LaamMuslimAndroid",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ayatu Rabbi - Quran",
-          "description": "The Easiest app to Read Holy Quran",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T01:13:54Z",
-            "owner": "3llomi",
-            "repo": "AyatuRabbi_Quran",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sunnah Assistant",
-          "description": "An android app for setting reminders that help you become a better person.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-04-15T16:31:59Z",
-            "owner": "saidmsaid81",
-            "repo": "SunnahAssistant",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Al Quran",
-          "description": "Al Quran is a 100% Free and Open Source App without any Ads. This is a simple (Text based) Quran app for Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-04-01T18:27:22Z",
-            "owner": "thefaisalurrehman",
-            "repo": "Al-Quran",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Kotlin"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Holy Quran",
-          "description": "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2025-08-20T16:22:03Z",
-            "owner": "mhmzdev",
-            "repo": "the-holy-quran-app",
-            "stars": 886
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alfanous",
-          "description": "an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-14T00:57:27Z",
-            "owner": "Alfanous-team",
-            "repo": "alfanous",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quran Flutter",
-          "description": "Quran made with Flutter for All platforms",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2024-08-12T16:48:16Z",
-            "owner": "SadaqaWorks",
-            "repo": "Quran-Flutter",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quran_app",
-          "description": "Quran app built with Flutter",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2021-08-29T08:58:26Z",
-            "owner": "yunusefendi52",
-            "repo": "quran_app",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Al-quran-Al-karim",
-          "description": "The Noble Qur’an - Hafs from Asim [Arabic Edition]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Dart",
-            "last_commit": "2023-01-08T11:19:43Z",
-            "owner": "HoussemTN",
-            "repo": "Al-quran-Al-karim",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prayer Times",
-          "description": "A turkish flutter app to shw prayer times.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2023-03-26T02:38:31Z",
-            "owner": "flutterturkey",
-            "repo": "prayer-times",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mi'raj",
-          "description": "An app that helps all Muslims around the world perform daily worship, Al-Quran, Qibla direction, Prayer times.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2024-12-02T23:23:09Z",
-            "owner": "Isko21",
-            "repo": "Mi-raj",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SimplyQibla",
-          "description": "Minimalist, accurate, and privacy-focused qibla app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-07-10T23:33:27Z",
-            "owner": "TowardsIkhlaas",
-            "repo": "simply_qibla",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Flutter"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quran Ios",
-          "description": "A quran reading application for iOS written in Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T22:20:29Z",
-            "owner": "quran",
-            "repo": "quran-ios",
-            "stars": 583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prayer Times",
-          "description": "Islamic Prayer (salah) Time calculation written in swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-02-17T14:48:50Z",
-            "owner": "ashikahmad",
-            "repo": "PrayerTimes-Swift",
-            "stars": 65
-          }
-        }
-      ],
-      "title": "Swift"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Al-Azan",
-          "description": "Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-06-25T07:32:46Z",
-            "owner": "meypod",
-            "repo": "al-azan",
-            "stars": 279
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open-Mushaf-Native",
-          "description": "Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:54:12Z",
-            "owner": "adelpro",
-            "repo": "open-mushaf-native",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muslim",
-          "description": "A quran and azkar reading application for android written in react native with TypeScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-12-05T15:09:44Z",
-            "owner": "abdenassar01",
-            "repo": "muslim",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Check-hadith-native",
-          "description": "Check hadith nabawi using dorar API. Preview.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-25T15:13:25Z",
-            "owner": "adelpro",
-            "repo": "check-hadith-native",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "React Native"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Desktop Apps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Prayer Times",
-          "description": "Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-01-06T15:43:41Z",
-            "owner": "HouariZegai",
-            "repo": "prayer-times",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azkar",
-          "description": "Desktop Application shows notification for Azkar that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-08T15:03:54Z",
-            "owner": "AbdelrahmanBayoumi",
-            "repo": "Azkar-App",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salawat",
-          "description": "A prayer times and Adhan application for Windows, macOS and GNU/Linux written in Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-09-27T14:03:40Z",
-            "owner": "DBChoco",
-            "repo": "Salawat",
-            "stars": 32
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Altaqwaa",
-          "description": "An electron-based Azkar/prayer times application for Windows & Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T03:35:15Z",
-            "owner": "rn0x",
-            "repo": "altaqwaa-desktop",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muezzin",
-          "description": "A prayer times and Adhan application for Windows, macOS and GNU/Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-18T20:22:32Z",
-            "owner": "DBChoco",
-            "repo": "Muezzin",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hisn-al-Muslim",
-          "description": "An app built upon the \"Hisn-al-Muslim\" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-03-08T18:25:49Z",
-            "owner": "rn0x",
-            "repo": "hisnmuslim_app",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Javascript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quran Companion",
-          "description": "cross-platform Quran reader & player written in Qt/C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-17T16:26:48Z",
-            "owner": "0xzer0x",
-            "repo": "quran-companion",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Next Prayer",
-          "description": "Islamic prayers reminder for Linux status bar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-04-02T00:00:38Z",
-            "owner": "AbdeltwabMF",
-            "repo": "next-prayer",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QuranApp",
-          "description": "Quran app is an easy to use Quran reader with support for translation in multiple languages and stream beautiful Quran recitation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2023-08-25T18:40:03Z",
-            "owner": "Muslim-Programmers",
-            "repo": "QuranApp-Linux",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "C/C++"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Libraries & Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Adhan Java",
-          "description": "High precision Islamic prayer time library for Java",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-04T19:18:29Z",
-            "owner": "batoulapps",
-            "repo": "adhan-kotlin",
-            "stars": 221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hijri Date Picker",
-          "description": "A library that offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers for Android 5.0 (API 21) +.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-11-27T07:38:03Z",
-            "owner": "alhazmy13",
-            "repo": "HijriDatePicker",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ITL Java",
-          "description": "A Java library for calculating prayer (salat) times, Hijri date, and qibla direction, based on ITL (Islamic Tools and Libraries)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-04-23T13:56:45Z",
-            "owner": "fikr4n",
-            "repo": "itl-java",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ayah Intellij",
-          "description": "Get a verse(an ayah) from the Quran during your coding session stay connected with the words of Allah.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-10T21:42:48Z",
-            "owner": "0x61nas",
-            "repo": "Ayah-intellij",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quran Verses",
-          "description": "a library to show random Quran verse in android app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-04-19T10:16:52Z",
-            "owner": "bullheadandplato",
-            "repo": "quranVerses",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Azan Library",
-          "description": "Library aiming to calculate prayer time with one line code, if you implement prayer time application , there is no need to do this headache again.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-02T09:38:24Z",
-            "owner": "ahmedeltaher",
-            "repo": "azan-mcp",
-            "stars": 383
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muslim DATA",
-          "description": "Best Muslim android library that provides: Prayer Times, Offline Geocoder, Names of Allah, and Azkars.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-07-17T18:41:35Z",
-            "owner": "my-prayers",
-            "repo": "muslim-data-android",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PrayerWatchFace",
-          "description": "Prayer Times on your Watch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-02T09:38:32Z",
-            "owner": "3llomi",
-            "repo": "PrayerWatchFace",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Kotlin"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Adhan Swift",
-          "description": "High precision Islamic prayer time library for Swift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-09T21:44:08Z",
-            "owner": "batoulapps",
-            "repo": "adhan-swift",
-            "stars": 227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muslim Data",
-          "description": "an Islamic library that provides Prayer Times (fixed and calculated), Offline Geocoder, Location Search, Azkars (Hisnul Muslim) and 99 Names of Allah.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-07-17T16:48:25Z",
-            "owner": "my-prayers",
-            "repo": "muslim-data-ios",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "Swift"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Adhan JS",
-          "description": "High precision Islamic prayer time library for Javascript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T23:20:20Z",
-            "owner": "batoulapps",
-            "repo": "adhan-js",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hijri Date Picker",
-          "description": "A simple and reusble react component for hijir date pickr",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T17:53:59Z",
-            "owner": "abublihi",
-            "repo": "hijri-date-picker",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Javascript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PyQuran",
-          "description": "a Python package which provides tools for Quranic Analysis and Arabic texts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-24T13:40:24Z",
-            "owner": "hci-lab",
-            "repo": "PyQuran",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyIslam",
-          "description": "a Python library to calculate prayer times, hijri date, qiblah direction and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-15T23:01:40Z",
-            "owner": "abougouffa",
-            "repo": "pyIslam",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HijriDate",
-          "description": "a Python package to convert accurately between Hijri and Gregorian dates using the Umm al-Qura calendar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T07:09:23Z",
-            "owner": "dralshehri",
-            "repo": "hijridate",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adhan Python",
-          "description": "High precision Islamic prayer time library for Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-06T01:20:40Z",
-            "owner": "alphahm",
-            "repo": "adhanpy",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Quran ODOA",
-          "description": "library to get random ayah within quran surah for supporting \"ODOA\" (One Day One Ayah) campaign.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-03T06:53:15Z",
-            "owner": "Keda87",
-            "repo": "python-quran-odoa",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flutter Qiblah",
-          "description": "a plugin that allows you to display Qiblah direction in you app with support for both Android and iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-02-08T13:30:11Z",
-            "owner": "medyas",
-            "repo": "flutter_qiblah",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adhan Dart / Flutter",
-          "description": "Adhan Dart is a well tested and well documented library for calculating Islamic prayer times.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2025-09-19T12:06:33Z",
-            "owner": "iamriajul",
-            "repo": "adhan-dart",
-            "stars": 106
-          }
-        }
-      ],
-      "title": "Dart & Flutter"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quran Extension",
-          "description": "Replace the new tab page with Quran verses and beautiful nature pictures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-16T19:25:03Z",
-            "owner": "shahednasser",
-            "repo": "quran-extension",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prayer Times Extension",
-          "description": "Prayer Time Calculation based on Geolocation for Google Chrome",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-28T13:53:50Z",
-            "owner": "mohamedmansour",
-            "repo": "prayer-times-extension",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adhan Time",
-          "description": "Adhan time Raycast extension for MacOs, download it from Raycast Store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-18T20:23:53Z",
-            "owner": "mzaien",
-            "repo": "adhan-time",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salati",
-          "description": "Muslims prayer time extension for Google Chrome.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-13T08:51:24Z",
-            "owner": "slimaneakalie",
-            "repo": "salati",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Muslim Companion",
-          "description": "A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface. Download it from Chrome Web Store",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-03-12T05:28:05Z",
-            "owner": "CosmicCoder13",
-            "repo": "muslim-companion",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Extensions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quran Image Generator",
-          "description": "a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-02-21T10:11:53Z",
-            "owner": "quran",
-            "repo": "quran.com-images",
-            "stars": 498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ayah Detection",
-          "description": "python scripts to detect ayah markers from quran images .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-02T13:41:49Z",
-            "owner": "quran",
-            "repo": "ayah-detection",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Django Quran",
-          "description": "Quranic models and helpers for use in Django projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-07-14T22:26:54Z",
-            "owner": "idris",
-            "repo": "django-quran",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hijri",
-          "description": "a cal-like command-line tool for Hijri (Islamic) dates — month/year calendars, Gregorian↔Hijri conversion, and Islamic events (Umm al-Qura).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-09T05:45:26Z",
-            "owner": "UtmostBoundary",
-            "repo": "hijri",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IslamicCLI",
-          "description": "a simple, cross-platform command-line application written in C# that provides daily Islamic utilities directly in the terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-02T15:54:33Z",
-            "owner": "IcyDrae",
-            "repo": "Islamic",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "Thanks goes to these wonderful people, Jazakoum Allahou Khayran 🤲",
-      "items": [],
-      "title": "Contributors ✨"
+      "title": "Open Source Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:26:57.999Z",
+    "last_updated": "2026-08-19T12:08:41.474Z",
     "original_repository": "choubari/Awesome-Muslims",
+    "original_repository_id": 357182222,
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
     "enhanced_repository_description": null,

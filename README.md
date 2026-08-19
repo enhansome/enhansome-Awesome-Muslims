@@ -107,7 +107,7 @@
 
 ### Swift
 
-* [Quran Ios](https://github.com/quran/quran-ios) ⭐ 583 | 🐛 107 | 🌐 Swift | 📅 2026-08-18: A quran reading application for iOS written in Swift.
+* [Quran Ios](https://github.com/quran/quran-ios) ⭐ 583 | 🐛 106 | 🌐 Swift | 📅 2026-08-19: A quran reading application for iOS written in Swift.
 * [Prayer Times](https://github.com/ashikahmad/PrayerTimes-Swift) ⭐ 65 | 🐛 7 | 🌐 Swift | 📅 2020-02-17: Islamic Prayer (salah) Time calculation written in swift.
 
 ### React Native
@@ -127,7 +127,7 @@
 
 ### Javascript
 
-* [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application) ⭐ 263 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-18: An electron-based Azkar/prayer times application for Windows & Linux.
+* [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application) ⭐ 263 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-19: An electron-based Azkar/prayer times application for Windows & Linux.
 * [Muezzin](https://github.com/DBChoco/Muezzin) ⭐ 182 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-18: A prayer times and Adhan application for Windows, macOS and GNU/Linux.
 * [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app) ⚠️ Archived: An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
 
@@ -150,7 +150,7 @@
 - [Quran API](https://github.com/sutanlab/quran-api) ⭐ 818 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 806 | 🐛 12 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
 - [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 543 | 🐛 69 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
-- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 492 | 🐛 2,674 | 🌐 Python | 📅 2026-07-19: The official API of sunnah.com for retrieving information about hadith collections.
+- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 492 | 🐛 2,676 | 🌐 Python | 📅 2026-07-19: The official API of sunnah.com for retrieving information about hadith collections.
 - [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 301 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) ⭐ 232 | 🐛 1 | 📅 2023-02-15:A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 - [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data) ⭐ 225 | 🐛 1 | 📅 2022-07-30: Open Hadith Library of the databases of 9 different books
@@ -261,7 +261,7 @@
 
 ## Contributors ✨
 
-Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors) ⭐ 607 | 🐛 9 | 📅 2026-07-15, Jazakoum Allahou Khayran 🤲
+Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors) ⭐ 608 | 🐛 9 | 📅 2026-07-15, Jazakoum Allahou Khayran 🤲
 
 ***
 
