@@ -293,7 +293,7 @@
                     "archived": false,
                     "id": 483644,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-19T21:12:10Z",
+                    "last_commit": "2026-08-20T22:00:31Z",
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2384
@@ -435,7 +435,7 @@
                     "archived": false,
                     "id": 483644,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-19T21:12:10Z",
+                    "last_commit": "2026-08-20T22:00:31Z",
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2384
@@ -662,7 +662,7 @@
                     "last_commit": "2026-08-19T22:49:34Z",
                     "owner": "quran",
                     "repo": "quran-ios",
-                    "stars": 583
+                    "stars": 584
                   }
                 },
                 {
@@ -822,7 +822,7 @@
                     "archived": false,
                     "id": 461658430,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T03:36:54Z",
+                    "last_commit": "2026-08-20T03:37:20Z",
                     "owner": "rn0x",
                     "repo": "altaqwaa-desktop",
                     "stars": 264
@@ -877,7 +877,7 @@
                     "last_commit": "2026-07-17T16:26:48Z",
                     "owner": "0xzer0x",
                     "repo": "quran-companion",
-                    "stars": 227
+                    "stars": 226
                   }
                 },
                 {
@@ -979,7 +979,7 @@
                 "last_commit": "2026-06-03T04:16:49Z",
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 543
+                "stars": 544
               }
             },
             {
@@ -991,7 +991,7 @@
                 "archived": false,
                 "id": 74298902,
                 "language": "Python",
-                "last_commit": "2026-07-19T05:24:16Z",
+                "last_commit": "2026-08-21T00:44:41Z",
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 492
@@ -1054,7 +1054,7 @@
                 "last_commit": "2024-09-19T04:04:47Z",
                 "owner": "osamayy",
                 "repo": "azkar-db",
-                "stars": 199
+                "stars": 200
               }
             },
             {
@@ -1090,7 +1090,7 @@
                     "archived": false,
                     "id": 148370332,
                     "language": "Kotlin",
-                    "last_commit": "2026-07-04T19:18:29Z",
+                    "last_commit": "2026-08-20T02:40:56Z",
                     "owner": "batoulapps",
                     "repo": "adhan-kotlin",
                     "stars": 220
@@ -1264,7 +1264,7 @@
                     "last_commit": "2026-08-10T23:20:20Z",
                     "owner": "batoulapps",
                     "repo": "adhan-js",
-                    "stars": 528
+                    "stars": 529
                   }
                 },
                 {
@@ -1522,7 +1522,7 @@
                 "last_commit": "2023-04-02T13:41:49Z",
                 "owner": "quran",
                 "repo": "ayah-detection",
-                "stars": 113
+                "stars": 112
               }
             },
             {
@@ -1580,7 +1580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:26:40.052Z",
+    "last_updated": "2026-08-21T01:37:07.573Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_id": 357182222,
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
