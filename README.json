@@ -293,7 +293,7 @@
                     "archived": false,
                     "id": 483644,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T20:13:37Z",
+                    "last_commit": "2026-08-23T17:59:19Z",
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2384
@@ -435,7 +435,7 @@
                     "archived": false,
                     "id": 483644,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T20:13:37Z",
+                    "last_commit": "2026-08-23T17:59:19Z",
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2384
@@ -822,10 +822,10 @@
                     "archived": false,
                     "id": 461658430,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-22T03:32:36Z",
+                    "last_commit": "2026-08-23T03:40:52Z",
                     "owner": "rn0x",
                     "repo": "altaqwaa-desktop",
-                    "stars": 264
+                    "stars": 265
                   }
                 },
                 {
@@ -934,7 +934,7 @@
                 "last_commit": "2026-03-15T17:50:02Z",
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1161
+                "stars": 1162
               }
             },
             {
@@ -979,7 +979,7 @@
                 "last_commit": "2026-06-03T04:16:49Z",
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 544
+                "stars": 543
               }
             },
             {
@@ -994,7 +994,7 @@
                 "last_commit": "2026-08-21T18:47:40Z",
                 "owner": "sunnah-com",
                 "repo": "api",
-                "stars": 494
+                "stars": 495
               }
             },
             {
@@ -1580,7 +1580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T01:39:43.255Z",
+    "last_updated": "2026-08-24T01:38:00.746Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_id": 357182222,
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
