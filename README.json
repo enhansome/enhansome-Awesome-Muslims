@@ -659,7 +659,7 @@
                     "archived": false,
                     "id": 55992036,
                     "language": "Swift",
-                    "last_commit": "2026-08-25T01:15:48Z",
+                    "last_commit": "2026-08-25T01:51:51Z",
                     "owner": "quran",
                     "repo": "quran-ios",
                     "stars": 584
@@ -822,7 +822,7 @@
                     "archived": false,
                     "id": 461658430,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T03:43:35Z",
+                    "last_commit": "2026-08-25T03:38:54Z",
                     "owner": "rn0x",
                     "repo": "altaqwaa-desktop",
                     "stars": 265
@@ -1031,7 +1031,7 @@
                 "last_commit": "2026-03-28T11:05:52Z",
                 "owner": "AhmedBaset",
                 "repo": "hadith-json",
-                "stars": 303
+                "stars": 304
               }
             },
             {
@@ -1740,7 +1740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:27:15.908Z",
+    "last_updated": "2026-08-25T06:13:44.588Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_id": 357182222,
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
