@@ -296,7 +296,7 @@
                     "last_commit": "2026-08-24T08:38:56Z",
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2384
+                    "stars": 2383
                   }
                 },
                 {
@@ -438,7 +438,7 @@
                     "last_commit": "2026-08-24T08:38:56Z",
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2384
+                    "stars": 2383
                   }
                 },
                 {
@@ -659,7 +659,7 @@
                     "archived": false,
                     "id": 55992036,
                     "language": "Swift",
-                    "last_commit": "2026-08-22T23:52:24Z",
+                    "last_commit": "2026-08-25T01:15:48Z",
                     "owner": "quran",
                     "repo": "quran-ios",
                     "stars": 584
@@ -956,7 +956,7 @@
                 "last_commit": "2026-03-15T17:50:02Z",
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1162
+                "stars": 1164
               }
             },
             {
@@ -971,7 +971,7 @@
                 "last_commit": "2025-07-23T07:07:12Z",
                 "owner": "gadingnst",
                 "repo": "quran-api",
-                "stars": 818
+                "stars": 819
               }
             },
             {
@@ -1016,7 +1016,7 @@
                 "last_commit": "2026-08-21T18:47:40Z",
                 "owner": "sunnah-com",
                 "repo": "api",
-                "stars": 495
+                "stars": 496
               }
             },
             {
@@ -1061,7 +1061,7 @@
                 "last_commit": "2022-07-30T12:35:58Z",
                 "owner": "mhashim6",
                 "repo": "Open-Hadith-Data",
-                "stars": 225
+                "stars": 226
               }
             },
             {
@@ -1157,7 +1157,7 @@
                     "archived": false,
                     "id": 526879402,
                     "language": "Java",
-                    "last_commit": "2026-08-22T08:08:54Z",
+                    "last_commit": "2026-08-24T21:44:27Z",
                     "owner": "0x61nas",
                     "repo": "Ayah-intellij",
                     "stars": 49
@@ -1740,7 +1740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:10.611Z",
+    "last_updated": "2026-08-25T01:27:15.908Z",
     "original_repository": "choubari/Awesome-Muslims",
     "original_repository_id": 357182222,
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
