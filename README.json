@@ -662,7 +662,7 @@
                     "last_commit": "2026-08-27T03:27:50Z",
                     "owner": "quran",
                     "repo": "quran-ios",
-                    "stars": 583
+                    "stars": 584
                   }
                 },
                 {
@@ -956,7 +956,7 @@
                 "last_commit": "2026-03-15T17:50:02Z",
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1169
+                "stars": 1170
               }
             },
             {
@@ -1727,7 +1727,7 @@
                 "last_commit": "2026-08-22T06:32:16Z",
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1906
+                "stars": 1907
               }
             }
           ],
@@ -1740,9 +1740,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T08:26:40.524Z",
-    "original_repository": "choubari/Awesome-Muslims",
-    "original_repository_id": 357182222,
+    "last_updated": "2026-08-27T11:25:20.173Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 357182222,
+      "language": null,
+      "last_commit": "2026-07-15T15:58:43Z",
+      "owner": "choubari",
+      "repo": "Awesome-Muslims",
+      "stars": 613
+    },
     "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
     "enhanced_repository_description": null,

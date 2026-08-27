@@ -107,7 +107,7 @@
 
 ### Swift
 
-* [Quran Ios](https://github.com/quran/quran-ios) ⭐ 583 | 🐛 104 | 🌐 Swift | 📅 2026-08-27: A quran reading application for iOS written in Swift.
+* [Quran Ios](https://github.com/quran/quran-ios) ⭐ 584 | 🐛 104 | 🌐 Swift | 📅 2026-08-27: A quran reading application for iOS written in Swift.
 * [Prayer Times](https://github.com/ashikahmad/PrayerTimes-Swift) ⭐ 65 | 🐛 7 | 🌐 Swift | 📅 2020-02-17: Islamic Prayer (salah) Time calculation written in swift.
 
 ### React Native
@@ -146,7 +146,7 @@
 
 * [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 
-- [Quran API Multi](https://github.com/fawazahmed0/quran-api) ⭐ 1,169 | 🐛 26 | 📅 2026-03-15: Free Quran API Service with 90+ different languages and 400+ translations
+- [Quran API Multi](https://github.com/fawazahmed0/quran-api) ⭐ 1,170 | 🐛 26 | 📅 2026-03-15: Free Quran API Service with 90+ different languages and 400+ translations
 - [Quran API](https://github.com/sutanlab/quran-api) ⭐ 818 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 808 | 🐛 10 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
 - [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 544 | 🐛 69 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
@@ -255,7 +255,7 @@
 
 ## Database
 
-* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,906 | 🐛 0 | 🌐 Python | 📅 2026-08-22
+* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,907 | 🐛 1 | 🌐 Python | 📅 2026-08-22
 
 # Credits
 
