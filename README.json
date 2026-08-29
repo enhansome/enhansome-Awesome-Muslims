@@ -92,7 +92,7 @@
                 "open_issues": 0,
                 "owner": "abdessamadbettal",
                 "repo": "Falah",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "adhan",
                   "arabic",
@@ -1747,7 +1747,7 @@
                 "open_issues": 26,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1890,7 +1890,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2734,
+                "open_issues": 2738,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 497,
@@ -3063,7 +3063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:21.594Z",
+    "last_updated": "2026-08-29T06:27:52.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3075,7 +3075,7 @@
       "open_issues": 10,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
-      "stars": 613,
+      "stars": 614,
       "topics": [
         "awesome",
         "awesome-list",

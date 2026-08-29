@@ -52,7 +52,7 @@
 * [Quran](https://github.com/quran/quran.com-frontend-v2) ⚠️ Archived: The official source code repository for [Quran.com](https://Quran.com)
 * [Pray Times](https://github.com/abodehq/Pray-Times) ⭐ 233 | 🐛 12 | 📅 2023-05-14: an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
 * [QuranicAudio](https://github.com/quran/audio.quran.com) ⭐ 176 | 🐛 26 | 🌐 Svelte | 📅 2026-06-18: The official Repository of <https://quranicaudio.com/>
-* [Falah.io](https://github.com/abdessamadbettal/falah) ⭐ 142 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18: An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. [Preview](https://falah.io)
+* [Falah.io](https://github.com/abdessamadbettal/falah) ⭐ 143 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18: An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. [Preview](https://falah.io)
 * [Hijri JS](https://github.com/xsoh/Hijri.js) ⭐ 83 | 🐛 7 | 🌐 JavaScript | 📅 2023-01-31: A Hijri converter with Javasript
 * [Quran Multi](https://github.com/fawazahmed0/quran) ⭐ 25 | 🐛 5 | 🌐 HTML | 📅 2024-12-01: Read Quran in 90+ Languages. [Preview](https://fawazahmed0.github.io/quran)
 * [Hadith Multi](https://github.com/fawazahmed0/hadiths) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-01: Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
@@ -146,11 +146,11 @@
 
 * [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 
-- [Quran API Multi](https://github.com/fawazahmed0/quran-api) ⭐ 1,170 | 🐛 26 | 📅 2026-03-15: Free Quran API Service with 90+ different languages and 400+ translations
+- [Quran API Multi](https://github.com/fawazahmed0/quran-api) ⭐ 1,171 | 🐛 26 | 📅 2026-03-15: Free Quran API Service with 90+ different languages and 400+ translations
 - [Quran API](https://github.com/sutanlab/quran-api) ⭐ 818 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 809 | 🐛 10 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
 - [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 544 | 🐛 69 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
-- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 497 | 🐛 2,734 | 🌐 Python | 📅 2026-08-21: The official API of sunnah.com for retrieving information about hadith collections.
+- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 497 | 🐛 2,738 | 🌐 Python | 📅 2026-08-21: The official API of sunnah.com for retrieving information about hadith collections.
 - [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 304 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) ⭐ 233 | 🐛 1 | 📅 2023-02-15:A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 - [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data) ⭐ 226 | 🐛 1 | 📅 2022-07-30: Open Hadith Library of the databases of 9 different books
@@ -261,7 +261,7 @@
 
 ## Contributors ✨
 
-Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors) ⭐ 613 | 🐛 10 | 📅 2026-07-15, Jazakoum Allahou Khayran 🤲
+Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors) ⭐ 614 | 🐛 10 | 📅 2026-07-15, Jazakoum Allahou Khayran 🤲
 
 ***
 
