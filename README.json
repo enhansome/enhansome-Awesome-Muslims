@@ -67,7 +67,7 @@
                 "open_issues": 26,
                 "owner": "quran",
                 "repo": "audio.quran.com",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "audio",
                   "islam",
@@ -525,8 +525,8 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-28T20:56:13Z",
-                    "open_issues": 405,
+                    "last_commit": "2026-08-29T13:39:19Z",
+                    "open_issues": 406,
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2383,
@@ -662,16 +662,21 @@
                   "repo_info": {
                     "archived": false,
                     "description": "A simple, open source Quran reader app with extras, completely free forever",
-                    "homepage": null,
+                    "homepage": "https://mirfatif.github.io/NoorUlHuda/",
                     "id": 370055802,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2024-06-12T05:02:55Z",
+                    "last_commit": "2026-08-29T20:17:27Z",
                     "open_issues": 19,
                     "owner": "mirfatif",
                     "repo": "NoorUlHuda",
-                    "stars": 106,
-                    "topics": []
+                    "stars": 105,
+                    "topics": [
+                      "adhan",
+                      "android",
+                      "quran",
+                      "quran-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
                 },
@@ -770,8 +775,8 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-28T20:56:13Z",
-                    "open_issues": 405,
+                    "last_commit": "2026-08-29T13:39:19Z",
+                    "open_issues": 406,
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2383,
@@ -946,7 +951,7 @@
                     "open_issues": 0,
                     "owner": "mhmzdev",
                     "repo": "the-holy-quran-app",
-                    "stars": 888,
+                    "stars": 889,
                     "topics": [
                       "android-app",
                       "dart",
@@ -1125,8 +1130,8 @@
                     "id": 788359967,
                     "language": "Dart",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-07-10T23:33:27Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-08-30T02:13:00Z",
+                    "open_issues": 5,
                     "owner": "TowardsIkhlaas",
                     "repo": "simply_qibla",
                     "stars": 30,
@@ -1164,7 +1169,7 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T11:14:31Z",
+                    "last_commit": "2026-08-29T18:42:34Z",
                     "open_issues": 104,
                     "owner": "quran",
                     "repo": "quran-ios",
@@ -1473,7 +1478,7 @@
                     "id": 461658430,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-28T14:40:50Z",
+                    "last_commit": "2026-08-29T09:30:44Z",
                     "open_issues": 12,
                     "owner": "rn0x",
                     "repo": "altaqwaa-desktop",
@@ -1592,7 +1597,7 @@
                     "open_issues": 21,
                     "owner": "0xzer0x",
                     "repo": "quran-companion",
-                    "stars": 228,
+                    "stars": 227,
                     "topics": [
                       "cross-platform",
                       "islam",
@@ -1782,7 +1787,7 @@
                 "open_issues": 12,
                 "owner": "gadingnst",
                 "repo": "quran-api",
-                "stars": 818,
+                "stars": 819,
                 "topics": [
                   "al-quran",
                   "alquran",
@@ -1890,7 +1895,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2738,
+                "open_issues": 2748,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 497,
@@ -2062,7 +2067,7 @@
                     "open_issues": 9,
                     "owner": "batoulapps",
                     "repo": "adhan-kotlin",
-                    "stars": 220,
+                    "stars": 221,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -2207,7 +2212,7 @@
                     "open_issues": 12,
                     "owner": "ahmedeltaher",
                     "repo": "azan-mcp",
-                    "stars": 384,
+                    "stars": 383,
                     "topics": [
                       "adhan",
                       "adhan-player",
@@ -2984,7 +2989,7 @@
                 "open_issues": 26,
                 "owner": "quran",
                 "repo": "audio.quran.com",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "audio",
                   "islam",
@@ -3044,7 +3049,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1906,
+                "stars": 1907,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3063,7 +3068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T06:27:52.951Z",
+    "last_updated": "2026-08-30T04:38:57.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3075,7 +3080,7 @@
       "open_issues": 10,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
-      "stars": 614,
+      "stars": 615,
       "topics": [
         "awesome",
         "awesome-list",
