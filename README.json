@@ -21,7 +21,7 @@
                 "open_issues": 209,
                 "owner": "quran",
                 "repo": "quran.com-frontend-v2",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "islam",
                   "muslim",
@@ -184,7 +184,7 @@
                 "id": 485511811,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-01T02:10:22Z",
+                "last_commit": "2026-09-01T03:01:21Z",
                 "open_issues": 4,
                 "owner": "fawazahmed0",
                 "repo": "hadiths",
@@ -477,13 +477,13 @@
               "description": "Calculates Sunnah, voluntary, and prohibited fasting days and times. Preview",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Calculates Sunnah, voluntary, and prohibited fasting days and fasting times.",
                 "homepage": "https://calendar.tayyiba.live",
                 "id": 1246567889,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-09T13:58:23Z",
+                "last_commit": "2026-08-31T23:29:08Z",
                 "open_issues": 0,
                 "owner": "edwgiz",
                 "repo": "tayyib-fasting-calendar",
@@ -525,11 +525,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-29T13:39:19Z",
-                    "open_issues": 407,
+                    "last_commit": "2026-08-31T15:56:10Z",
+                    "open_issues": 408,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2383,
+                    "stars": 2384,
                     "topics": [
                       "android",
                       "quran"
@@ -550,10 +550,10 @@
                     "language": "Kotlin",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-10T20:47:46Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "metinkale38",
                     "repo": "prayer-times-android",
-                    "stars": 265,
+                    "stars": 266,
                     "topics": [
                       "allah",
                       "android",
@@ -609,7 +609,7 @@
                     "open_issues": 4,
                     "owner": "choubari",
                     "repo": "Muslim-App",
-                    "stars": 179,
+                    "stars": 180,
                     "topics": [
                       "allah",
                       "android",
@@ -667,15 +667,39 @@
                     "language": "Java",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-08-29T20:17:27Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "mirfatif",
                     "repo": "NoorUlHuda",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": [
                       "adhan",
                       "android",
                       "quran",
                       "quran-app"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T10:40:45.455Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muslim Mate",
+                  "description": "an android application to organize Muslims life.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Muslim mate is an android application to organize Muslims life.",
+                    "homepage": null,
+                    "id": 93747304,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2017-06-12T12:26:47Z",
+                    "open_issues": 9,
+                    "owner": "fekracomputers",
+                    "repo": "MuslimMateAndroid",
+                    "stars": 32,
+                    "topics": [
+                      "islam",
+                      "islamic-prayer-times"
                     ]
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -707,30 +731,6 @@
                       "islamic-apps",
                       "qibla",
                       "qibla-direction"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T10:40:45.455Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Muslim Mate",
-                  "description": "an android application to organize Muslims life.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Muslim mate is an android application to organize Muslims life.",
-                    "homepage": null,
-                    "id": 93747304,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2017-06-12T12:26:47Z",
-                    "open_issues": 9,
-                    "owner": "fekracomputers",
-                    "repo": "MuslimMateAndroid",
-                    "stars": 31,
-                    "topics": [
-                      "islam",
-                      "islamic-prayer-times"
                     ]
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -775,11 +775,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-29T13:39:19Z",
-                    "open_issues": 407,
+                    "last_commit": "2026-08-31T15:56:10Z",
+                    "open_issues": 408,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2383,
+                    "stars": 2384,
                     "topics": [
                       "android",
                       "quran"
@@ -1130,8 +1130,8 @@
                     "id": 788359967,
                     "language": "Dart",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T02:13:00Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-08-31T11:15:37Z",
+                    "open_issues": 10,
                     "owner": "TowardsIkhlaas",
                     "repo": "simply_qibla",
                     "stars": 30,
@@ -1170,10 +1170,10 @@
                     "language": "Swift",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-29T18:42:34Z",
-                    "open_issues": 105,
+                    "open_issues": 106,
                     "owner": "quran",
                     "repo": "quran-ios",
-                    "stars": 584,
+                    "stars": 585,
                     "topics": [
                       "ios",
                       "quran",
@@ -1478,7 +1478,7 @@
                     "id": 461658430,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T08:38:15Z",
+                    "last_commit": "2026-08-31T09:01:19Z",
                     "open_issues": 12,
                     "owner": "rn0x",
                     "repo": "altaqwaa-desktop",
@@ -1749,10 +1749,10 @@
                 "language": null,
                 "license": "Unlicense",
                 "last_commit": "2026-03-15T17:50:02Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1895,7 +1895,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2754,
+                "open_issues": 2760,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 498,
@@ -2361,8 +2361,8 @@
                     "id": 148370774,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T03:22:16Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-08-31T23:42:30Z",
+                    "open_issues": 8,
                     "owner": "batoulapps",
                     "repo": "adhan-js",
                     "stars": 530,
@@ -2834,7 +2834,7 @@
                 "open_issues": 27,
                 "owner": "quran",
                 "repo": "quran.com-images",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -3068,7 +3068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T04:43:07.574Z",
+    "last_updated": "2026-09-01T04:23:40.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3080,7 +3080,7 @@
       "open_issues": 10,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
-      "stars": 615,
+      "stars": 617,
       "topics": [
         "awesome",
         "awesome-list",
