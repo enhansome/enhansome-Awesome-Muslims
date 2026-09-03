@@ -89,7 +89,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-01T20:39:33Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "abdessamadbettal",
                 "repo": "Falah",
                 "stars": 143,
@@ -525,11 +525,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-01T16:50:51Z",
-                    "open_issues": 410,
+                    "last_commit": "2026-09-03T01:48:42Z",
+                    "open_issues": 407,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2385,
+                    "stars": 2386,
                     "topics": [
                       "android",
                       "quran"
@@ -775,11 +775,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-01T16:50:51Z",
-                    "open_issues": 410,
+                    "last_commit": "2026-09-03T01:48:42Z",
+                    "open_issues": 407,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2385,
+                    "stars": 2386,
                     "topics": [
                       "android",
                       "quran"
@@ -1169,11 +1169,11 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T18:42:34Z",
+                    "last_commit": "2026-09-02T22:49:30Z",
                     "open_issues": 105,
                     "owner": "quran",
                     "repo": "quran-ios",
-                    "stars": 585,
+                    "stars": 586,
                     "topics": [
                       "ios",
                       "quran",
@@ -1301,7 +1301,7 @@
                     "language": "TypeScript",
                     "license": null,
                     "last_commit": "2024-12-05T15:09:44Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "abdenassar01",
                     "repo": "muslim",
                     "stars": 9,
@@ -1478,7 +1478,7 @@
                     "id": 461658430,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-01T08:04:34Z",
+                    "last_commit": "2026-09-02T07:24:14Z",
                     "open_issues": 12,
                     "owner": "rn0x",
                     "repo": "altaqwaa-desktop",
@@ -1752,7 +1752,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1174,
+                "stars": 1175,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1895,7 +1895,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2767,
+                "open_issues": 2773,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 499,
@@ -2307,7 +2307,7 @@
                     "open_issues": 5,
                     "owner": "batoulapps",
                     "repo": "adhan-swift",
-                    "stars": 229,
+                    "stars": 228,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -2361,7 +2361,7 @@
                     "id": 148370774,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T23:42:30Z",
+                    "last_commit": "2026-09-02T23:50:59Z",
                     "open_issues": 8,
                     "owner": "batoulapps",
                     "repo": "adhan-js",
@@ -2961,7 +2961,7 @@
                 "open_issues": 8,
                 "owner": "nuqayah",
                 "repo": "qpc-fonts",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -3049,7 +3049,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1908,
+                "stars": 1909,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3068,7 +3068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T03:46:38.256Z",
+    "last_updated": "2026-09-03T03:46:36.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3080,7 +3080,7 @@
       "open_issues": 10,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
-      "stars": 617,
+      "stars": 618,
       "topics": [
         "awesome",
         "awesome-list",
