@@ -75,7 +75,7 @@
 
 ### Java
 
-* [Quran](https://github.com/quran/quran_android) ⭐ 2,388 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a quran reading application for android
+* [Quran](https://github.com/quran/quran_android) ⭐ 2,387 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a quran reading application for android
 * [Namaz Vakti Android](https://github.com/metinkale38/prayer-times-android) ⭐ 266 | 🐛 8 | 🌐 Kotlin | 📅 2026-09-03: A useful Application with a set of tools needed by any muslim.
 * [Qurany App](https://github.com/MahmoudMabrok/QuranyApp) ⭐ 225 | 🐛 36 | 🌐 Java | 📅 2026-07-22: Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size
 * [Muslim App](https://github.com/choubari/Muslim-App) ⚠️ Archived: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features.
@@ -87,7 +87,7 @@
 
 ### Kotlin
 
-* [Quran for Android](https://github.com/quran/quran_android) ⭐ 2,388 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a Quran.com offical Android App
+* [Quran for Android](https://github.com/quran/quran_android) ⭐ 2,387 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a Quran.com offical Android App
 * [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android) ⭐ 53 | 🐛 0 | 🌐 Kotlin | 📅 2021-11-13: Source Code Tutorial App of Al-Quran
 * [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid) ⭐ 35 | 🐛 0 | 🌐 Kotlin | 📅 2020-05-01: Project to find out the prayer schedule, reading the quran, etc.
 * [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran) ⭐ 17 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-18: The Easiest app to Read Holy Quran
@@ -103,7 +103,7 @@
 * [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim) ⚠️ Archived: The Noble Qur’an - Hafs from Asim \[Arabic Edition]
 * [Prayer Times](https://github.com/flutterturkey/prayer-times) ⭐ 46 | 🐛 1 | 🌐 Dart | 📅 2023-03-26: A turkish flutter app to shw prayer times.
 * [Mi'raj](https://github.com/Isko21/Mi-raj) ⭐ 38 | 🐛 1 | 🌐 Dart | 📅 2024-12-02: An app that helps all Muslims around the world perform daily worship, Al-Quran, Qibla direction, Prayer times.
-* [SimplyQibla](https://github.com/TowardsIkhlaas/simply_qibla) ⭐ 30 | 🐛 10 | 🌐 Dart | 📅 2026-08-31: Minimalist, accurate, and privacy-focused qibla app.
+* [SimplyQibla](https://github.com/TowardsIkhlaas/simply_qibla) ⭐ 30 | 🐛 9 | 🌐 Dart | 📅 2026-09-05: Minimalist, accurate, and privacy-focused qibla app.
 
 ### Swift
 
@@ -113,7 +113,7 @@
 ### React Native
 
 * [Al-Azan](https://github.com/meypod/al-azan/) ⚠️ Archived: Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.
-* [Open-Mushaf-Native](https://github.com/adelpro/open-mushaf-native) ⭐ 43 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-22: Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.
+* [Open-Mushaf-Native](https://github.com/adelpro/open-mushaf-native) ⭐ 43 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-05: Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.
 * [Muslim](https://github.com/abdenassar01/muslim) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-12-05: A quran and azkar reading application for android written in react native with TypeScript.
 * [Check-hadith-native](https://github.com/adelpro/check-hadith-native) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-25:Check hadith nabawi using dorar API. [Preview](\[https://adelpro.github.io/check-hadith]\(https://check-hadith.web.app/\)).
 
@@ -147,10 +147,10 @@
 * [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 
 - [Quran API Multi](https://github.com/fawazahmed0/quran-api) ⭐ 1,175 | 🐛 27 | 📅 2026-03-15: Free Quran API Service with 90+ different languages and 400+ translations
-- [Quran API](https://github.com/sutanlab/quran-api) ⭐ 819 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
-- [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 809 | 🐛 10 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
+- [Quran API](https://github.com/sutanlab/quran-api) ⭐ 820 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
+- [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 810 | 🐛 10 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
 - [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 545 | 🐛 69 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
-- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 501 | 🐛 2,790 | 🌐 Python | 📅 2026-08-21: The official API of sunnah.com for retrieving information about hadith collections.
+- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 502 | 🐛 2,797 | 🌐 Python | 📅 2026-08-21: The official API of sunnah.com for retrieving information about hadith collections.
 - [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 304 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) ⭐ 233 | 🐛 1 | 📅 2023-02-15:A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 - [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data) ⭐ 226 | 🐛 1 | 📅 2022-07-30: Open Hadith Library of the databases of 9 different books
@@ -255,7 +255,7 @@
 
 ## Database
 
-* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,909 | 🐛 1 | 🌐 Python | 📅 2026-08-22
+* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,910 | 🐛 1 | 🌐 Python | 📅 2026-08-22
 
 # Credits
 
@@ -265,4 +265,4 @@ Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Musl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

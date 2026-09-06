@@ -529,7 +529,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2388,
+                    "stars": 2387,
                     "topics": [
                       "android",
                       "quran"
@@ -779,7 +779,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2388,
+                    "stars": 2387,
                     "topics": [
                       "android",
                       "quran"
@@ -1130,8 +1130,8 @@
                     "id": 788359967,
                     "language": "Dart",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-31T11:15:37Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-05T19:48:07Z",
+                    "open_issues": 9,
                     "owner": "TowardsIkhlaas",
                     "repo": "simply_qibla",
                     "stars": 30,
@@ -1267,8 +1267,8 @@
                     "id": 853441665,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-22T19:17:23Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-05T22:35:51Z",
+                    "open_issues": 6,
                     "owner": "adelpro",
                     "repo": "open-mushaf-native",
                     "stars": 43,
@@ -1787,7 +1787,7 @@
                 "open_issues": 12,
                 "owner": "gadingnst",
                 "repo": "quran-api",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "al-quran",
                   "alquran",
@@ -1829,7 +1829,7 @@
                 "open_issues": 10,
                 "owner": "semarketir",
                 "repo": "quranjson",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "audio",
                   "data",
@@ -1895,10 +1895,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2790,
+                "open_issues": 2797,
                 "owner": "sunnah-com",
                 "repo": "api",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "hadith",
                   "islam",
@@ -3049,7 +3049,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1909,
+                "stars": 1910,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3068,7 +3068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T03:45:52.329Z",
+    "last_updated": "2026-09-06T03:49:30.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
