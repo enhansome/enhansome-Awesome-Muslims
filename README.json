@@ -67,7 +67,7 @@
                 "open_issues": 26,
                 "owner": "quran",
                 "repo": "audio.quran.com",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "audio",
                   "islam",
@@ -529,7 +529,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2387,
+                    "stars": 2388,
                     "topics": [
                       "android",
                       "quran"
@@ -779,7 +779,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2387,
+                    "stars": 2388,
                     "topics": [
                       "android",
                       "quran"
@@ -1169,7 +1169,7 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T12:30:35Z",
+                    "last_commit": "2026-09-07T02:18:25Z",
                     "open_issues": 103,
                     "owner": "quran",
                     "repo": "quran-ios",
@@ -1752,7 +1752,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1175,
+                "stars": 1176,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1829,7 +1829,7 @@
                 "open_issues": 10,
                 "owner": "semarketir",
                 "repo": "quranjson",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "audio",
                   "data",
@@ -1895,7 +1895,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2797,
+                "open_issues": 2803,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 502,
@@ -2834,7 +2834,7 @@
                 "open_issues": 27,
                 "owner": "quran",
                 "repo": "quran.com-images",
-                "stars": 500,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -2989,7 +2989,7 @@
                 "open_issues": 26,
                 "owner": "quran",
                 "repo": "audio.quran.com",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "audio",
                   "islam",
@@ -3049,7 +3049,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1910,
+                "stars": 1916,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3068,7 +3068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T03:49:30.240Z",
+    "last_updated": "2026-09-07T03:48:21.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
