@@ -529,7 +529,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2388,
+                    "stars": 2389,
                     "topics": [
                       "android",
                       "quran"
@@ -779,7 +779,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2388,
+                    "stars": 2389,
                     "topics": [
                       "android",
                       "quran"
@@ -951,7 +951,7 @@
                     "open_issues": 0,
                     "owner": "mhmzdev",
                     "repo": "the-holy-quran-app",
-                    "stars": 889,
+                    "stars": 888,
                     "topics": [
                       "android-app",
                       "dart",
@@ -1169,11 +1169,11 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T02:18:25Z",
-                    "open_issues": 103,
+                    "last_commit": "2026-09-07T14:37:38Z",
+                    "open_issues": 108,
                     "owner": "quran",
                     "repo": "quran-ios",
-                    "stars": 585,
+                    "stars": 586,
                     "topics": [
                       "ios",
                       "quran",
@@ -1517,7 +1517,7 @@
                     "open_issues": 24,
                     "owner": "DBChoco",
                     "repo": "Muezzin",
-                    "stars": 185,
+                    "stars": 184,
                     "topics": [
                       "adhan",
                       "app",
@@ -1829,7 +1829,7 @@
                 "open_issues": 10,
                 "owner": "semarketir",
                 "repo": "quranjson",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "audio",
                   "data",
@@ -1865,7 +1865,7 @@
                 "open_issues": 69,
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "api",
                   "free",
@@ -1895,7 +1895,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2803,
+                "open_issues": 2807,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 502,
@@ -1921,10 +1921,10 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-03-28T11:05:52Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "AhmedBaset",
                 "repo": "hadith-json",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2834,7 +2834,7 @@
                 "open_issues": 27,
                 "owner": "quran",
                 "repo": "quran.com-images",
-                "stars": 501,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -3049,7 +3049,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1916,
+                "stars": 1917,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3068,7 +3068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T03:48:21.139Z",
+    "last_updated": "2026-09-08T03:52:20.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",

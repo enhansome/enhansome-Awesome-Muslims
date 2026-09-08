@@ -75,7 +75,7 @@
 
 ### Java
 
-* [Quran](https://github.com/quran/quran_android) ⭐ 2,388 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a quran reading application for android
+* [Quran](https://github.com/quran/quran_android) ⭐ 2,389 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a quran reading application for android
 * [Namaz Vakti Android](https://github.com/metinkale38/prayer-times-android) ⭐ 266 | 🐛 8 | 🌐 Kotlin | 📅 2026-09-03: A useful Application with a set of tools needed by any muslim.
 * [Qurany App](https://github.com/MahmoudMabrok/QuranyApp) ⭐ 225 | 🐛 36 | 🌐 Java | 📅 2026-07-22: Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size
 * [Muslim App](https://github.com/choubari/Muslim-App) ⚠️ Archived: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features.
@@ -87,7 +87,7 @@
 
 ### Kotlin
 
-* [Quran for Android](https://github.com/quran/quran_android) ⭐ 2,388 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a Quran.com offical Android App
+* [Quran for Android](https://github.com/quran/quran_android) ⭐ 2,389 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-05: a Quran.com offical Android App
 * [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android) ⭐ 53 | 🐛 0 | 🌐 Kotlin | 📅 2021-11-13: Source Code Tutorial App of Al-Quran
 * [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid) ⭐ 35 | 🐛 0 | 🌐 Kotlin | 📅 2020-05-01: Project to find out the prayer schedule, reading the quran, etc.
 * [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran) ⭐ 17 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-18: The Easiest app to Read Holy Quran
@@ -96,7 +96,7 @@
 
 ### Flutter
 
-* [Holy Quran](https://github.com/m-hamzashakeel/The_Holy_Quran_App) ⭐ 889 | 🐛 0 | 🌐 Dart | 📅 2025-08-20: Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.
+* [Holy Quran](https://github.com/m-hamzashakeel/The_Holy_Quran_App) ⭐ 888 | 🐛 0 | 🌐 Dart | 📅 2025-08-20: Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.
 * [Alfanous](https://github.com/Alfanous-team/alfanous) ⭐ 288 | 🐛 23 | 🌐 Python | 📅 2026-06-14: an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.
 * [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter) ⭐ 231 | 🐛 8 | 🌐 Dart | 📅 2024-08-12: Quran made with Flutter for All platforms
 * [quran\_app](https://github.com/yunusefendi52/quran_app) ⭐ 185 | 🐛 2 | 🌐 Dart | 📅 2021-08-29: Quran app built with Flutter
@@ -107,7 +107,7 @@
 
 ### Swift
 
-* [Quran Ios](https://github.com/quran/quran-ios) ⭐ 585 | 🐛 103 | 🌐 Swift | 📅 2026-09-07: A quran reading application for iOS written in Swift.
+* [Quran Ios](https://github.com/quran/quran-ios) ⭐ 586 | 🐛 108 | 🌐 Swift | 📅 2026-09-07: A quran reading application for iOS written in Swift.
 * [Prayer Times](https://github.com/ashikahmad/PrayerTimes-Swift) ⭐ 65 | 🐛 7 | 🌐 Swift | 📅 2020-02-17: Islamic Prayer (salah) Time calculation written in swift.
 
 ### React Native
@@ -128,7 +128,7 @@
 ### Javascript
 
 * [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application) ⭐ 266 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-04: An electron-based Azkar/prayer times application for Windows & Linux.
-* [Muezzin](https://github.com/DBChoco/Muezzin) ⭐ 185 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-18: A prayer times and Adhan application for Windows, macOS and GNU/Linux.
+* [Muezzin](https://github.com/DBChoco/Muezzin) ⭐ 184 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-18: A prayer times and Adhan application for Windows, macOS and GNU/Linux.
 * [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app) ⚠️ Archived: An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
 
 ### C/C++ <a name="c-cpp"></a>
@@ -148,10 +148,10 @@
 
 - [Quran API Multi](https://github.com/fawazahmed0/quran-api) ⭐ 1,176 | 🐛 27 | 📅 2026-03-15: Free Quran API Service with 90+ different languages and 400+ translations
 - [Quran API](https://github.com/sutanlab/quran-api) ⭐ 820 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
-- [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 811 | 🐛 10 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
-- [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 545 | 🐛 69 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
-- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 502 | 🐛 2,803 | 🌐 Python | 📅 2026-08-21: The official API of sunnah.com for retrieving information about hadith collections.
-- [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 304 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
+- [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 812 | 🐛 10 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
+- [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 546 | 🐛 69 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
+- [Sunnah API](https://github.com/sunnah-com/api) ⭐ 502 | 🐛 2,807 | 🌐 Python | 📅 2026-08-21: The official API of sunnah.com for retrieving information about hadith collections.
+- [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 305 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) ⭐ 233 | 🐛 1 | 📅 2023-02-15:A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 - [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data) ⭐ 226 | 🐛 1 | 📅 2022-07-30: Open Hadith Library of the databases of 9 different books
 - [Azkar DB](https://github.com/osamayy/azkar-db) ⭐ 200 | 🐛 1 | 📅 2024-09-19: a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
@@ -216,7 +216,7 @@
 
 ## Others
 
-* [Quran Image Generator](https://github.com/quran/quran.com-images) ⭐ 501 | 🐛 27 | 🌐 Perl | 📅 2026-02-21: a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
+* [Quran Image Generator](https://github.com/quran/quran.com-images) ⭐ 502 | 🐛 27 | 🌐 Perl | 📅 2026-02-21: a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
 * [Ayah Detection](https://github.com/quran/ayah-detection) ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2023-04-02: python scripts to detect ayah markers from quran images .
 * [Django Quran](https://github.com/idris/django-quran) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2016-07-14: Quranic models and helpers for use in Django projects
 * [hijri](https://github.com/UtmostBoundary/hijri) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-07-09: a cal-like command-line tool for Hijri (Islamic) dates — month/year calendars, Gregorian↔Hijri conversion, and Islamic events (Umm al-Qura).
@@ -255,7 +255,7 @@
 
 ## Database
 
-* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,916 | 🐛 1 | 🌐 Python | 📅 2026-08-22
+* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,917 | 🐛 1 | 🌐 Python | 📅 2026-08-22
 
 # Credits
 
@@ -265,4 +265,4 @@ Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Musl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
