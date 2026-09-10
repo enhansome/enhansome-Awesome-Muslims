@@ -303,7 +303,7 @@
                 "open_issues": 9,
                 "owner": "buildwithmalik",
                 "repo": "TimeForSalahWebsite",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "islamic-prayer-times",
                   "javascript",
@@ -525,11 +525,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-05T02:23:24Z",
-                    "open_issues": 411,
+                    "last_commit": "2026-09-09T22:35:46Z",
+                    "open_issues": 414,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2389,
+                    "stars": 2388,
                     "topics": [
                       "android",
                       "quran"
@@ -775,11 +775,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-05T02:23:24Z",
-                    "open_issues": 411,
+                    "last_commit": "2026-09-09T22:35:46Z",
+                    "open_issues": 414,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2389,
+                    "stars": 2388,
                     "topics": [
                       "android",
                       "quran"
@@ -1169,8 +1169,8 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T14:37:38Z",
-                    "open_issues": 108,
+                    "last_commit": "2026-09-09T21:16:40Z",
+                    "open_issues": 102,
                     "owner": "quran",
                     "repo": "quran-ios",
                     "stars": 587,
@@ -1517,7 +1517,7 @@
                     "open_issues": 24,
                     "owner": "DBChoco",
                     "repo": "Muezzin",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": [
                       "adhan",
                       "app",
@@ -1895,7 +1895,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2811,
+                "open_issues": 2818,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 502,
@@ -1924,7 +1924,7 @@
                 "open_issues": 11,
                 "owner": "AhmedBaset",
                 "repo": "hadith-json",
-                "stars": 308,
+                "stars": 310,
                 "topics": [
                   "hadith",
                   "islam",
@@ -1980,7 +1980,7 @@
                 "open_issues": 1,
                 "owner": "mhashim6",
                 "repo": "Open-Hadith-Data",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "arabic-diacritics",
                   "cross-platform",
@@ -2446,7 +2446,7 @@
                     "open_issues": 1,
                     "owner": "davidpet86",
                     "repo": "Adhan-csharp",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -3068,7 +3068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T03:57:11.145Z",
+    "last_updated": "2026-09-10T03:56:32.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
