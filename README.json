@@ -89,7 +89,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-03T15:19:54Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "abdessamadbettal",
                 "repo": "Falah",
                 "stars": 144,
@@ -473,6 +473,27 @@
             },
             {
               "node_type": "item",
+              "title": "Qafiyah",
+              "description": "An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "moved to qafiyah.com",
+                "homepage": "qafiyah.com",
+                "id": 1373577156,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-16T19:55:54Z",
+                "open_issues": 0,
+                "owner": "alwalxed",
+                "repo": "qafiyah",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-17T04:15:08.897Z"
+            },
+            {
+              "node_type": "item",
               "title": "Fasting Times",
               "description": "Calculates Sunnah, voluntary, and prohibited fasting days and times. Preview",
               "children": [],
@@ -525,11 +546,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-15T14:40:47Z",
+                    "last_commit": "2026-09-17T02:32:08Z",
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2394,
+                    "stars": 2395,
                     "topics": [
                       "android",
                       "quran"
@@ -775,11 +796,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-15T14:40:47Z",
+                    "last_commit": "2026-09-17T02:32:08Z",
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2394,
+                    "stars": 2395,
                     "topics": [
                       "android",
                       "quran"
@@ -1169,8 +1190,8 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T02:55:41Z",
-                    "open_issues": 105,
+                    "last_commit": "2026-09-16T13:38:28Z",
+                    "open_issues": 103,
                     "owner": "quran",
                     "repo": "quran-ios",
                     "stars": 588,
@@ -1597,7 +1618,7 @@
                     "open_issues": 21,
                     "owner": "0xzer0x",
                     "repo": "quran-companion",
-                    "stars": 228,
+                    "stars": 229,
                     "topics": [
                       "cross-platform",
                       "islam",
@@ -1738,6 +1759,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Qafiyah",
+              "description": "An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "moved to qafiyah.com",
+                "homepage": "qafiyah.com",
+                "id": 1373577156,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-16T19:55:54Z",
+                "open_issues": 0,
+                "owner": "alwalxed",
+                "repo": "qafiyah",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-17T04:15:08.897Z"
+            },
+            {
+              "node_type": "item",
               "title": "Quran API Multi",
               "description": "Free Quran API Service with 90+ different languages and 400+ translations",
               "children": [],
@@ -1752,7 +1794,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1787,7 +1829,7 @@
                 "open_issues": 12,
                 "owner": "gadingnst",
                 "repo": "quran-api",
-                "stars": 821,
+                "stars": 820,
                 "topics": [
                   "al-quran",
                   "alquran",
@@ -1895,10 +1937,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2873,
+                "open_issues": 2875,
                 "owner": "sunnah-com",
                 "repo": "api",
-                "stars": 502,
+                "stars": 501,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2362,7 +2404,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-13T04:59:14Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "batoulapps",
                     "repo": "adhan-js",
                     "stars": 532,
@@ -3068,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T04:08:06.087Z",
+    "last_updated": "2026-09-17T04:15:08.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
