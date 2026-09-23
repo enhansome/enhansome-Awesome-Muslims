@@ -88,8 +88,8 @@
                 "id": 884817601,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T15:19:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-22T11:01:56Z",
+                "open_issues": 0,
                 "owner": "abdessamadbettal",
                 "repo": "Falah",
                 "stars": 147,
@@ -146,6 +146,36 @@
             },
             {
               "node_type": "item",
+              "title": "Hadith Multi",
+              "description": "Hadiths with Multiple Grades & Languages Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hadiths with multiple languages and multiple grades",
+                "homepage": "https://fawazahmed0.github.io/hadiths/",
+                "id": 485511811,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-09-01T03:01:21Z",
+                "open_issues": 4,
+                "owner": "fawazahmed0",
+                "repo": "hadiths",
+                "stars": 26,
+                "topics": [
+                  "hadeeth",
+                  "hadith",
+                  "hadith-books",
+                  "hadith-platform",
+                  "hadith-reader",
+                  "hadiths",
+                  "sunat",
+                  "sunnah"
+                ]
+              },
+              "first_seen": "2026-08-28T10:40:45.455Z"
+            },
+            {
+              "node_type": "item",
               "title": "Quran Multi",
               "description": "Read Quran in 90+ Languages. Preview",
               "children": [],
@@ -168,36 +198,6 @@
                   "quran-text",
                   "quran-translation",
                   "quran-web"
-                ]
-              },
-              "first_seen": "2026-08-28T10:40:45.455Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hadith Multi",
-              "description": "Hadiths with Multiple Grades & Languages Preview",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Hadiths with multiple languages and multiple grades",
-                "homepage": "https://fawazahmed0.github.io/hadiths/",
-                "id": 485511811,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2026-09-01T03:01:21Z",
-                "open_issues": 4,
-                "owner": "fawazahmed0",
-                "repo": "hadiths",
-                "stars": 25,
-                "topics": [
-                  "hadeeth",
-                  "hadith",
-                  "hadith-books",
-                  "hadith-platform",
-                  "hadith-reader",
-                  "hadiths",
-                  "sunat",
-                  "sunnah"
                 ]
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -550,7 +550,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2400,
+                    "stars": 2399,
                     "topics": [
                       "android",
                       "quran"
@@ -691,7 +691,7 @@
                     "open_issues": 20,
                     "owner": "mirfatif",
                     "repo": "NoorUlHuda",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": [
                       "adhan",
                       "android",
@@ -800,7 +800,7 @@
                     "open_issues": 411,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2400,
+                    "stars": 2399,
                     "topics": [
                       "android",
                       "quran"
@@ -1288,7 +1288,7 @@
                     "id": 853441665,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T22:35:51Z",
+                    "last_commit": "2026-09-22T08:19:42Z",
                     "open_issues": 7,
                     "owner": "adelpro",
                     "repo": "open-mushaf-native",
@@ -1794,7 +1794,7 @@
                 "open_issues": 27,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1188,
+                "stars": 1189,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1829,7 +1829,7 @@
                 "open_issues": 12,
                 "owner": "gadingnst",
                 "repo": "quran-api",
-                "stars": 821,
+                "stars": 820,
                 "topics": [
                   "al-quran",
                   "alquran",
@@ -1871,7 +1871,7 @@
                 "open_issues": 11,
                 "owner": "semarketir",
                 "repo": "quranjson",
-                "stars": 816,
+                "stars": 815,
                 "topics": [
                   "audio",
                   "data",
@@ -1907,7 +1907,7 @@
                 "open_issues": 69,
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 555,
+                "stars": 557,
                 "topics": [
                   "api",
                   "free",
@@ -1937,10 +1937,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2906,
+                "open_issues": 2909,
                 "owner": "sunnah-com",
                 "repo": "api",
-                "stars": 504,
+                "stars": 506,
                 "topics": [
                   "hadith",
                   "islam",
@@ -1966,7 +1966,7 @@
                 "open_issues": 11,
                 "owner": "AhmedBaset",
                 "repo": "hadith-json",
-                "stars": 319,
+                "stars": 321,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2660,7 +2660,7 @@
                     "open_issues": 12,
                     "owner": "medyas",
                     "repo": "flutter_qiblah",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": [
                       "android",
                       "compass",
@@ -3003,7 +3003,7 @@
                 "open_issues": 8,
                 "owner": "nuqayah",
                 "repo": "qpc-fonts",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -3091,7 +3091,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1924,
+                "stars": 1926,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T04:08:05.048Z",
+    "last_updated": "2026-09-23T04:05:00.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
