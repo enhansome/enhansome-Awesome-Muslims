@@ -92,7 +92,7 @@
                 "open_issues": 0,
                 "owner": "abdessamadbettal",
                 "repo": "Falah",
-                "stars": 147,
+                "stars": 145,
                 "topics": [
                   "adhan",
                   "arabic",
@@ -546,8 +546,8 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-21T22:05:26Z",
-                    "open_issues": 411,
+                    "last_commit": "2026-09-23T22:18:22Z",
+                    "open_issues": 410,
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2399,
@@ -796,8 +796,8 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-21T22:05:26Z",
-                    "open_issues": 411,
+                    "last_commit": "2026-09-23T22:18:22Z",
+                    "open_issues": 410,
                     "owner": "quran",
                     "repo": "quran_android",
                     "stars": 2399,
@@ -1289,7 +1289,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-22T08:19:42Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "adelpro",
                     "repo": "open-mushaf-native",
                     "stars": 45,
@@ -1308,6 +1308,48 @@
                     ]
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mihrab",
+                  "description": "Prayer times with adhan reminders and home-screen widgets, the full Madinah mushaf with recitation and tafsir, duas, tasbih and a fasting log. Offline-first, no ads or trackers, on Android, iPhone, iPad and Mac. Preview.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Mihrab — prayer times, adhan reminders, the full Madinah mushaf, duas, tasbih and a fasting log. Offline-first, no ads, no analytics. Android, iOS, iPadOS and Mac.",
+                    "homepage": "https://mihrab.elghamri.se/",
+                    "id": 1147476674,
+                    "language": "TypeScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-09-23T09:34:51Z",
+                    "open_issues": 3,
+                    "owner": "Hassan-PS",
+                    "repo": "Mihrab",
+                    "stars": 32,
+                    "topics": [
+                      "adhan",
+                      "android",
+                      "fdroid",
+                      "ios",
+                      "islam",
+                      "islamic",
+                      "islamic-app",
+                      "macos",
+                      "mushaf",
+                      "muslim",
+                      "muslim-app",
+                      "muslim-prayer-times",
+                      "no-ads",
+                      "offline-first",
+                      "prayer-times",
+                      "privacy",
+                      "qibla",
+                      "quran",
+                      "react-native",
+                      "salah"
+                    ]
+                  },
+                  "first_seen": "2026-09-24T03:59:57.920Z"
                 },
                 {
                   "node_type": "item",
@@ -1871,7 +1913,7 @@
                 "open_issues": 11,
                 "owner": "semarketir",
                 "repo": "quranjson",
-                "stars": 815,
+                "stars": 816,
                 "topics": [
                   "audio",
                   "data",
@@ -1907,7 +1949,7 @@
                 "open_issues": 69,
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "api",
                   "free",
@@ -1937,7 +1979,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T18:47:40Z",
-                "open_issues": 2909,
+                "open_issues": 2914,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 506,
@@ -2053,7 +2095,7 @@
                 "open_issues": 1,
                 "owner": "osamayy",
                 "repo": "azkar-db",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "arabic-azkar",
                   "azkar",
@@ -2349,7 +2391,7 @@
                     "open_issues": 6,
                     "owner": "batoulapps",
                     "repo": "adhan-swift",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -2852,6 +2894,39 @@
                 ]
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "QuranLens",
+              "description": "A Chrome extension that identifies the Surah and Ayah being recited in a YouTube video by matching its Arabic captions against the Quran entirely on-device. Download it from Chrome Web Store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Browser extension that identifies the Surah and Ayah being recited in a YouTube video by matching its Arabic captions against the Quran entirely on-device so no data leaves your browser.",
+                "homepage": "https://chromewebstore.google.com/detail/jigacmpijeacfjocnodgjliikbldgdem",
+                "id": 1260250728,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-09-19T16:09:30Z",
+                "open_issues": 0,
+                "owner": "nanfaweb",
+                "repo": "QuranLens",
+                "stars": 1,
+                "topics": [
+                  "chrome-extension",
+                  "chromium-extension",
+                  "edge-extension",
+                  "extension",
+                  "islam",
+                  "islamic",
+                  "islamic-app",
+                  "opera-extension",
+                  "quran",
+                  "quran-json",
+                  "quran-web"
+                ]
+              },
+              "first_seen": "2026-09-24T03:59:57.920Z"
             }
           ],
           "description": null,
@@ -3091,7 +3166,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1926,
+                "stars": 1925,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3110,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:05:00.314Z",
+    "last_updated": "2026-09-24T03:59:57.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3118,8 +3193,8 @@
       "id": 357182222,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-15T15:58:43Z",
-      "open_issues": 11,
+      "last_commit": "2026-09-23T09:44:55Z",
+      "open_issues": 9,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
       "stars": 619,
@@ -3145,7 +3220,7 @@
         "zakat-calculator"
       ]
     },
-    "original_repository_sha": "e7253fe1330400d39c7767c4a0b90f86f2223f74",
+    "original_repository_sha": "5757d67e8e9263a2eff0d4559962f7650d68d88b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
     "enhanced_repository_description": null,
     "title": "Awesome Table of Content with stars"
