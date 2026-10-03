@@ -114,7 +114,7 @@
 
 * [Al-Azan](https://github.com/meypod/al-azan/) ⚠️ Archived: Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.
 * [Open-Mushaf-Native](https://github.com/adelpro/open-mushaf-native) ⭐ 45 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-27: Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.
-* [Mihrab](https://github.com/Hassan-PS/Mihrab) ⭐ 41 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02: Prayer times with adhan reminders and home-screen widgets, the full Madinah mushaf with recitation and tafsir, duas, tasbih and a fasting log. Offline-first, no ads or trackers, on Android, iPhone, iPad and Mac. [Preview](https://mihrab.elghamri.se/).
+* [Mihrab](https://github.com/Hassan-PS/Mihrab) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02: Prayer times with adhan reminders and home-screen widgets, the full Madinah mushaf with recitation and tafsir, duas, tasbih and a fasting log. Offline-first, no ads or trackers, on Android, iPhone, iPad and Mac. [Preview](https://mihrab.elghamri.se/).
 * [Muslim](https://github.com/abdenassar01/muslim) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-12-05: A quran and azkar reading application for android written in react native with TypeScript.
 * [Check-hadith-native](https://github.com/adelpro/check-hadith-native) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-25:Check hadith nabawi using dorar API. [Preview](\[https://adelpro.github.io/check-hadith]\(https://check-hadith.web.app/\)).
 
@@ -149,7 +149,7 @@
 * [Quran API](https://github.com/sutanlab/quran-api) ⭐ 820 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 * [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 818 | 🐛 11 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
 * [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 563 | 🐛 70 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
-* [Sunnah API](https://github.com/sunnah-com/api) ⭐ 508 | 🐛 2,893 | 🌐 Python | 📅 2026-10-01: The official API of sunnah.com for retrieving information about hadith collections.
+* [Sunnah API](https://github.com/sunnah-com/api) ⭐ 508 | 🐛 2,894 | 🌐 Python | 📅 2026-10-01: The official API of sunnah.com for retrieving information about hadith collections.
 * [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 328 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 * [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) ⭐ 234 | 🐛 1 | 📅 2023-02-15:A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 * [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data) ⭐ 231 | 🐛 1 | 📅 2022-07-30: Open Hadith Library of the databases of 9 different books

@@ -1325,7 +1325,7 @@
                     "open_issues": 1,
                     "owner": "MihrabHQ",
                     "repo": "Mihrab",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "adhan",
                       "android",
@@ -1958,7 +1958,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-01T17:01:02Z",
-                "open_issues": 2893,
+                "open_issues": 2894,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 508,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:19.385Z",
+    "last_updated": "2026-10-03T04:49:56.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
