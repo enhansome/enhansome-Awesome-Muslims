@@ -51,9 +51,9 @@
 
 * [Quran](https://github.com/quran/quran.com-frontend-v2) ⚠️ Archived: The official source code repository for [Quran.com](https://Quran.com)
 * [Pray Times](https://github.com/abodehq/Pray-Times) ⭐ 233 | 🐛 12 | 📅 2023-05-14: an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
-* [QuranicAudio](https://github.com/quran/audio.quran.com) ⭐ 179 | 🐛 26 | 🌐 Svelte | 📅 2026-10-02: The official Repository of <https://quranicaudio.com/>
+* [QuranicAudio](https://github.com/quran/audio.quran.com) ⭐ 179 | 🐛 26 | 🌐 Svelte | 📅 2026-10-03: The official Repository of <https://quranicaudio.com/>
 * [Falah.io](https://github.com/abdessamadbettal/falah) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-22: An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. [Preview](https://falah.io)
-* [Qafiyah](https://github.com/raaqimorg/qafiyah) ⭐ 94 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-02: The Arabic poetry reference, an open-source catalog of poems and poets. [Preview](https://qafiyah.com)
+* [Qafiyah](https://github.com/raaqimorg/qafiyah) ⭐ 95 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-04: The Arabic poetry reference, an open-source catalog of poems and poets. [Preview](https://qafiyah.com)
 * [Hijri JS](https://github.com/xsoh/Hijri.js) ⭐ 83 | 🐛 7 | 🌐 JavaScript | 📅 2023-01-31: A Hijri converter with Javasript
 * [Hadith Multi](https://github.com/fawazahmed0/hadiths) ⭐ 26 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-01: Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
 * [Quran Multi](https://github.com/fawazahmed0/quran) ⭐ 24 | 🐛 5 | 🌐 HTML | 📅 2024-12-01: Read Quran in 90+ Languages. [Preview](https://fawazahmed0.github.io/quran)
@@ -67,6 +67,7 @@
 * [Next Salat](https://github.com/ayoubsousali/next-salat) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-21: A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 * [Quranfi](https://github.com/Quranfi-Project/quranfi-web) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-04: A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. [Preview](https://www.quranfi.xyz/)
 * [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-18: A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
+* [Shahada](https://github.com/Shahada-org/shahada) ⭐ 0 | 🐛 2 | 🌐 HTML | 📅 2026-09-28: Free open guide to saying the Shahada in 40+ languages with word-by-word audio. [Preview](https://shahada.org/en/)
 * [Fasting Times](https://github.com/edwgiz/tayyib-fasting-calendar) ⚠️ Archived Calculates Sunnah, voluntary, and prohibited fasting days and times. [Preview](https://calendar.tayyiba.live/)
 * [Salat](https://github.com/kafiln/salati): Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app).
 * [Quranaho](https://github.com/adibemohamed/quranaho): Open Source Quran
@@ -75,7 +76,7 @@
 
 ### Java
 
-* [Quran](https://github.com/quran/quran_android) ⭐ 2,404 | 🐛 415 | 🌐 Kotlin | 📅 2026-10-02: a quran reading application for android
+* [Quran](https://github.com/quran/quran_android) ⭐ 2,406 | 🐛 408 | 🌐 Kotlin | 📅 2026-10-03: a quran reading application for android
 * [Namaz Vakti Android](https://github.com/metinkale38/prayer-times-android) ⭐ 266 | 🐛 8 | 🌐 Kotlin | 📅 2026-09-03: A useful Application with a set of tools needed by any muslim.
 * [Qurany App](https://github.com/MahmoudMabrok/QuranyApp) ⭐ 225 | 🐛 36 | 🌐 Java | 📅 2026-07-22: Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size
 * [Muslim App](https://github.com/choubari/Muslim-App) ⚠️ Archived: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features.
@@ -87,7 +88,7 @@
 
 ### Kotlin
 
-* [Quran for Android](https://github.com/quran/quran_android) ⭐ 2,404 | 🐛 415 | 🌐 Kotlin | 📅 2026-10-02: a Quran.com offical Android App
+* [Quran for Android](https://github.com/quran/quran_android) ⭐ 2,406 | 🐛 408 | 🌐 Kotlin | 📅 2026-10-03: a Quran.com offical Android App
 * [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android) ⭐ 53 | 🐛 0 | 🌐 Kotlin | 📅 2021-11-13: Source Code Tutorial App of Al-Quran
 * [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid) ⭐ 35 | 🐛 0 | 🌐 Kotlin | 📅 2020-05-01: Project to find out the prayer schedule, reading the quran, etc.
 * [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran) ⭐ 17 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-18: The Easiest app to Read Holy Quran
@@ -113,8 +114,8 @@
 ### React Native
 
 * [Al-Azan](https://github.com/meypod/al-azan/) ⚠️ Archived: Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.
-* [Open-Mushaf-Native](https://github.com/adelpro/open-mushaf-native) ⭐ 45 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-27: Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.
-* [Mihrab](https://github.com/Hassan-PS/Mihrab) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02: Prayer times with adhan reminders and home-screen widgets, the full Madinah mushaf with recitation and tafsir, duas, tasbih and a fasting log. Offline-first, no ads or trackers, on Android, iPhone, iPad and Mac. [Preview](https://mihrab.elghamri.se/).
+* [Open-Mushaf-Native](https://github.com/adelpro/open-mushaf-native) ⭐ 45 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-27: Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.
+* [Mihrab](https://github.com/Hassan-PS/Mihrab) ⭐ 43 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03: Prayer times with adhan reminders and home-screen widgets, the full Madinah mushaf with recitation and tafsir, duas, tasbih and a fasting log. Offline-first, no ads or trackers, on Android, iPhone, iPad and Mac. [Preview](https://mihrab.elghamri.se/).
 * [Muslim](https://github.com/abdenassar01/muslim) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-12-05: A quran and azkar reading application for android written in react native with TypeScript.
 * [Check-hadith-native](https://github.com/adelpro/check-hadith-native) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-25:Check hadith nabawi using dorar API. [Preview](\[https://adelpro.github.io/check-hadith]\(https://check-hadith.web.app/\)).
 
@@ -148,13 +149,13 @@
 * [Quran API Multi](https://github.com/fawazahmed0/quran-api) ⭐ 1,192 | 🐛 27 | 📅 2026-09-12: Free Quran API Service with 90+ different languages and 400+ translations
 * [Quran API](https://github.com/sutanlab/quran-api) ⭐ 820 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-23: Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 * [Quran JSON](https://github.com/semarketir/quranjson) ⭐ 818 | 🐛 11 | 📅 2021-02-16: Quran JSON \~ 6236 verses, 114 surah, 30 Juz
-* [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 563 | 🐛 70 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
-* [Sunnah API](https://github.com/sunnah-com/api) ⭐ 508 | 🐛 2,894 | 🌐 Python | 📅 2026-10-01: The official API of sunnah.com for retrieving information about hadith collections.
-* [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 328 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
+* [Hadith API](https://github.com/fawazahmed0/hadith-api) ⭐ 564 | 🐛 70 | 📅 2026-06-03: Free Hadith API Service with Multiple Languages and Multiple Grades
+* [Sunnah API](https://github.com/sunnah-com/api) ⭐ 508 | 🐛 2,861 | 🌐 Python | 📅 2026-10-01: The official API of sunnah.com for retrieving information about hadith collections.
+* [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json) ⭐ 329 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-28: A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 * [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) ⭐ 234 | 🐛 1 | 📅 2023-02-15:A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 * [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data) ⭐ 231 | 🐛 1 | 📅 2022-07-30: Open Hadith Library of the databases of 9 different books
-* [Azkar DB](https://github.com/osamayy/azkar-db) ⭐ 200 | 🐛 1 | 📅 2024-09-19: a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
-* [Qafiyah](https://github.com/raaqimorg/qafiyah) ⭐ 94 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-02: Open-source Arabic poetry data with a free JSON API.
+* [Azkar DB](https://github.com/osamayy/azkar-db) ⭐ 201 | 🐛 1 | 📅 2024-09-19: a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
+* [Qafiyah](https://github.com/raaqimorg/qafiyah) ⭐ 95 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-04: Open-source Arabic poetry data with a free JSON API.
 * [Quran CSV](https://github.com/azvox/quran-csv/tree/master/resources) ⭐ 26 | 🐛 0 | 📅 2022-12-12
 * [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
 * [The AlAdhan API](https://github.com/islamic-network/api.aladhan.com): this repository powers the AlAdhan.com API on <http://api.aladhan.com>.
@@ -171,7 +172,7 @@
 
 ### Kotlin
 
-* [Azan Library](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan) ⭐ 381 | 🐛 12 | 🌐 Python | 📅 2026-06-02: Library aiming to calculate prayer time with one line code, if you implement prayer time application , there is no need to do this headache again.
+* [Azan Library](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan) ⭐ 381 | 🐛 13 | 🌐 Python | 📅 2026-06-02: Library aiming to calculate prayer time with one line code, if you implement prayer time application , there is no need to do this headache again.
 * [Muslim DATA](https://github.com/kosratdev/muslim-data-android) ⭐ 35 | 🐛 4 | 🌐 Kotlin | 📅 2025-07-17: Best Muslim android library that provides: Prayer Times, Offline Geocoder, Names of Allah, and Azkars.
 * [PrayerWatchFace](https://github.com/3llomi/PrayerWatchFace) ⭐ 15 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-02: Prayer Times on your Watch
 
@@ -200,10 +201,11 @@
 * [HijriDate](https://github.com/dralshehri/hijridate) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-08-06: a Python package to convert accurately between Hijri and Gregorian dates using the Umm al-Qura calendar.
 * [Adhan Python](https://github.com/alphahm/adhanpy) ⭐ 35 | 🐛 7 | 🌐 Python | 📅 2024-04-06: High precision Islamic prayer time library for Python.
 * [Python Quran ODOA](https://github.com/Keda87/python-quran-odoa) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-07-03: library to get random ayah within quran surah for supporting "ODOA" (One Day One Ayah) campaign.
+* [al-falak](https://github.com/nexusnv/al-falak) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-10-03: offline Python library for prayer times, Qibla direction/distance, and Sunnah night markers (JAKIM preset, fully typed, zero dependencies).
 
 ### Dart & Flutter
 
-* [Flutter Qiblah](https://github.com/medyas/flutter_qiblah) ⭐ 154 | 🐛 12 | 🌐 Dart | 📅 2026-02-08 : a plugin that allows you to display Qiblah direction in you app with support for both Android and iOS.
+* [Flutter Qiblah](https://github.com/medyas/flutter_qiblah) ⭐ 155 | 🐛 12 | 🌐 Dart | 📅 2026-02-08 : a plugin that allows you to display Qiblah direction in you app with support for both Android and iOS.
 * [Adhan Dart / Flutter](https://github.com/iamriajul/adhan-dart) ⭐ 107 | 🐛 18 | 🌐 Dart | 📅 2025-09-19 : Adhan Dart is a well tested and well documented library for calculating Islamic prayer times.
 
 ## Extensions
@@ -227,13 +229,13 @@
 
 ## Fonts
 
-* [QCF Fonts](https://github.com/mustafa0x/qpc-fonts) ⭐ 135 | 🐛 8 | 🌐 Python | 📅 2026-04-20: Quran complex fonts for every page of the Quran.
+* [QCF Fonts](https://github.com/mustafa0x/qpc-fonts) ⭐ 136 | 🐛 8 | 🌐 Python | 📅 2026-04-20: Quran complex fonts for every page of the Quran.
 * [Quranic Fonts](https://tanzil.net/docs/quranic_fonts): Arabic fonts used in [Tanzil](https://tanzil.net/).
 * [Quran Fonts](https://fonts.qurancomplex.gov.sa/): A website that contains Quran Fonts and Calligraphy.
 
 ## Sound
 
-* [QuranicAudio](https://github.com/quran/audio.quran.com) ⭐ 179 | 🐛 26 | 🌐 Svelte | 📅 2026-10-02: A list of quality Quran Recitations used on [QuranicAudio.com](http://quranicaudio.com/) , get to know more info [here](https://quranicaudio.com/about).
+* [QuranicAudio](https://github.com/quran/audio.quran.com) ⭐ 179 | 🐛 26 | 🌐 Svelte | 📅 2026-10-03: A list of quality Quran Recitations used on [QuranicAudio.com](http://quranicaudio.com/) , get to know more info [here](https://quranicaudio.com/about).
 * [Quran Audio Library](https://audio.qurancomplex.gov.sa/site/): Listen to audio recordings to the readers of the complex and translations of Quran.
 * [EveryAyah](https://everyayah.com/recitations_ayat.html): Quran verse-by-verse & page recitations.
 
@@ -256,7 +258,7 @@
 
 ## Database
 
-* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,932 | 🐛 1 | 🌐 Python | 📅 2026-08-22
+* [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git) ⭐ 1,933 | 🐛 1 | 🌐 Python | 📅 2026-08-22
 
 # Credits
 
@@ -266,4 +268,4 @@ Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Musl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

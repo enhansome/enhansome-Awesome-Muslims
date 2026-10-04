@@ -63,7 +63,7 @@
                 "id": 60311780,
                 "language": "Svelte",
                 "license": null,
-                "last_commit": "2026-10-02T14:39:36Z",
+                "last_commit": "2026-10-03T08:45:52Z",
                 "open_issues": 26,
                 "owner": "quran",
                 "repo": "audio.quran.com",
@@ -130,11 +130,11 @@
                 "id": 1385221871,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:34:26Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-04T05:04:29Z",
+                "open_issues": 17,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -494,6 +494,27 @@
             },
             {
               "node_type": "item",
+              "title": "Shahada",
+              "description": "Free open guide to saying the Shahada in 40+ languages with word-by-word audio. Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Shahada - Your guide to embracing Islam in 40+ languages",
+                "homepage": "https://shahada.org",
+                "id": 1165161475,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-28T21:09:18Z",
+                "open_issues": 2,
+                "owner": "Shahada-org",
+                "repo": "shahada",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T05:08:58.479Z"
+            },
+            {
+              "node_type": "item",
               "title": "Fasting Times",
               "description": "Calculates Sunnah, voluntary, and prohibited fasting days and times. Preview",
               "children": [],
@@ -546,11 +567,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T18:46:40Z",
-                    "open_issues": 415,
+                    "last_commit": "2026-10-03T10:44:32Z",
+                    "open_issues": 408,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2404,
+                    "stars": 2406,
                     "topics": [
                       "android",
                       "quran"
@@ -796,11 +817,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T18:46:40Z",
-                    "open_issues": 415,
+                    "last_commit": "2026-10-03T10:44:32Z",
+                    "open_issues": 408,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2404,
+                    "stars": 2406,
                     "topics": [
                       "android",
                       "quran"
@@ -1289,7 +1310,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-27T07:59:08Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "adelpro",
                     "repo": "open-mushaf-native",
                     "stars": 45,
@@ -1321,11 +1342,11 @@
                     "id": 1147476674,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T15:08:12Z",
+                    "last_commit": "2026-10-03T13:50:44Z",
                     "open_issues": 1,
                     "owner": "MihrabHQ",
                     "repo": "Mihrab",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": [
                       "adhan",
                       "android",
@@ -1928,7 +1949,7 @@
                 "open_issues": 70,
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 563,
+                "stars": 564,
                 "topics": [
                   "api",
                   "free",
@@ -1958,7 +1979,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-01T17:01:02Z",
-                "open_issues": 2894,
+                "open_issues": 2861,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 508,
@@ -1987,7 +2008,7 @@
                 "open_issues": 12,
                 "owner": "AhmedBaset",
                 "repo": "hadith-json",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2074,7 +2095,7 @@
                 "open_issues": 1,
                 "owner": "osamayy",
                 "repo": "azkar-db",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "arabic-azkar",
                   "azkar",
@@ -2096,11 +2117,11 @@
                 "id": 1385221871,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:34:26Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-04T05:04:29Z",
+                "open_issues": 17,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -2293,7 +2314,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-06-02T09:38:24Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "ahmedeltaher",
                     "repo": "azan-mcp",
                     "stars": 381,
@@ -2678,6 +2699,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "al-falak",
+                  "description": "offline Python library for prayer times, Qibla direction/distance, and Sunnah night markers (JAKIM preset, fully typed, zero dependencies).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An offline prayer times library",
+                    "homepage": "https://nexusnv.github.io/al-falak/",
+                    "id": 1386005826,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-03T05:15:01Z",
+                    "open_issues": 3,
+                    "owner": "nexusnv",
+                    "repo": "al-falak",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-04T05:08:58.479Z"
                 }
               ],
               "description": null,
@@ -2702,7 +2744,7 @@
                     "open_issues": 12,
                     "owner": "medyas",
                     "repo": "flutter_qiblah",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": [
                       "android",
                       "compass",
@@ -3078,7 +3120,7 @@
                 "open_issues": 8,
                 "owner": "nuqayah",
                 "repo": "qpc-fonts",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -3102,7 +3144,7 @@
                 "id": 60311780,
                 "language": "Svelte",
                 "license": null,
-                "last_commit": "2026-10-02T14:39:36Z",
+                "last_commit": "2026-10-03T08:45:52Z",
                 "open_issues": 26,
                 "owner": "quran",
                 "repo": "audio.quran.com",
@@ -3166,7 +3208,7 @@
                 "open_issues": 1,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1932,
+                "stars": 1933,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3185,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:56.305Z",
+    "last_updated": "2026-10-04T05:08:58.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3193,8 +3235,8 @@
       "id": 357182222,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-25T15:47:23Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-03T21:49:33Z",
+      "open_issues": 6,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
       "stars": 620,
@@ -3220,7 +3262,7 @@
         "zakat-calculator"
       ]
     },
-    "original_repository_sha": "258d9eaca5aab800476dd0a9a879a1d28efc1d53",
+    "original_repository_sha": "2240e33ace03ea3d56673ddf2893d4f5f9705101",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
     "enhanced_repository_description": null,
     "title": "Awesome Table of Content with stars"
