@@ -130,11 +130,11 @@
                 "id": 1385221871,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T00:56:05Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-20T02:50:41Z",
+                "open_issues": 16,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -568,10 +568,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-18T04:20:17Z",
-                    "open_issues": 418,
+                    "open_issues": 419,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2416,
+                    "stars": 2417,
                     "topics": [
                       "android",
                       "quran"
@@ -818,10 +818,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-18T04:20:17Z",
-                    "open_issues": 418,
+                    "open_issues": 419,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2416,
+                    "stars": 2417,
                     "topics": [
                       "android",
                       "quran"
@@ -1050,7 +1050,7 @@
                     "open_issues": 8,
                     "owner": "SadaqaWorks",
                     "repo": "Quran-Flutter",
-                    "stars": 231,
+                    "stars": 232,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -1211,8 +1211,8 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T20:08:41Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-10-19T23:19:28Z",
+                    "open_issues": 88,
                     "owner": "quran",
                     "repo": "quran-ios",
                     "stars": 599,
@@ -1309,11 +1309,11 @@
                     "id": 1147476674,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-18T22:25:24Z",
+                    "last_commit": "2026-10-19T20:03:18Z",
                     "open_issues": 0,
                     "owner": "MihrabHQ",
                     "repo": "Mihrab",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": [
                       "adhan",
                       "android",
@@ -1351,7 +1351,7 @@
                     "id": 853441665,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T18:02:32Z",
+                    "last_commit": "2026-10-19T06:25:32Z",
                     "open_issues": 8,
                     "owner": "adelpro",
                     "repo": "open-mushaf-native",
@@ -1836,7 +1836,7 @@
                 "open_issues": 30,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1195,
+                "stars": 1197,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1913,7 +1913,7 @@
                 "open_issues": 11,
                 "owner": "semarketir",
                 "repo": "quranjson",
-                "stars": 817,
+                "stars": 818,
                 "topics": [
                   "audio",
                   "data",
@@ -1978,8 +1978,8 @@
                 "id": 74298902,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-13T22:22:48Z",
-                "open_issues": 2986,
+                "last_commit": "2026-10-20T03:49:42Z",
+                "open_issues": 2992,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 516,
@@ -2117,11 +2117,11 @@
                 "id": 1385221871,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T00:56:05Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-20T02:50:41Z",
+                "open_issues": 16,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -2146,6 +2146,33 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Muslim Names Dataset",
+              "description": "Curated sample of 150 Muslim names (75M/75F) with Arabic script, FR/EN transliterations and FR/EN/AR meanings, drawn from a 2,400+ name verified database. CC BY-NC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1317394091,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-09T07:59:51Z",
+                "open_issues": 0,
+                "owner": "moustaqim",
+                "repo": "muslim-names-dataset",
+                "stars": 0,
+                "topics": [
+                  "dataset",
+                  "islam",
+                  "json",
+                  "muslim-names",
+                  "open-data"
+                ]
+              },
+              "first_seen": "2026-10-20T04:12:12.489Z"
             }
           ],
           "description": null,
@@ -2412,7 +2439,7 @@
                     "open_issues": 5,
                     "owner": "batoulapps",
                     "repo": "adhan-swift",
-                    "stars": 236,
+                    "stars": 237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -2433,7 +2460,7 @@
                     "open_issues": 1,
                     "owner": "my-prayers",
                     "repo": "muslim-data-ios",
-                    "stars": 38,
+                    "stars": 36,
                     "topics": [
                       "azkar",
                       "cocoapods",
@@ -2527,6 +2554,36 @@
                     ]
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "arabic-core",
+                  "description": "A zero-dependency TypeScript library for Umm al-Qura Hijri ↔ Gregorian date conversion, plus Arabic number-to-words and tashkeel removal. Preview",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Arabic tafgeet (number-to-words), currency in words, tashkeel removal and Umm al-Qura Hijri dates. TypeScript, no dependencies.",
+                    "homepage": "https://getkirnu.com",
+                    "id": 1409189281,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-08T15:46:54Z",
+                    "open_issues": 0,
+                    "owner": "getkirnu",
+                    "repo": "arabic-core",
+                    "stars": 0,
+                    "topics": [
+                      "arabic",
+                      "arabic-nlp",
+                      "hijri",
+                      "number-to-words",
+                      "tafgeet",
+                      "tashkeel",
+                      "typescript",
+                      "umm-al-qura"
+                    ]
+                  },
+                  "first_seen": "2026-10-20T04:12:12.489Z"
                 }
               ],
               "description": null,
@@ -2551,7 +2608,7 @@
                     "open_issues": 1,
                     "owner": "davidpet86",
                     "repo": "Adhan-csharp",
-                    "stars": 19,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
@@ -2787,7 +2844,7 @@
                     "open_issues": 18,
                     "owner": "iamriajul",
                     "repo": "adhan-dart",
-                    "stars": 107,
+                    "stars": 106,
                     "topics": [
                       "adhan-dart",
                       "adhan-flutter",
@@ -2948,6 +3005,48 @@
                 ]
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Muslim Prayer Reminder MCP",
+              "description": "Free, open-source MCP tool for calculated daily Muslim prayer times, regional calculation methods, and next-prayer countdowns. Source and setup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Production-ready Muslim prayer reminder MCP on Cloudflare Workers with Streamable HTTP, automatic location-based calculation authority calibration, mandatory theological disclosure, and deterministic host middleware.",
+                "homepage": "https://tareq7.github.io/muslim-prayer-mcp/",
+                "id": 1356181604,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-19T17:15:49Z",
+                "open_issues": 0,
+                "owner": "tareq7",
+                "repo": "muslim-prayer-mcp",
+                "stars": 3,
+                "topics": [
+                  "adhan",
+                  "ai-agents",
+                  "anthropic-claude",
+                  "chatgpt-mcp",
+                  "claude-desktop",
+                  "cloudflare-workers",
+                  "cursor",
+                  "edge-computing",
+                  "gemini-cli-extension",
+                  "islamic",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "npm-package",
+                  "prayer-times",
+                  "prayertimes",
+                  "salat",
+                  "typescript",
+                  "vercel-ai-sdk",
+                  "windsurf"
+                ]
+              },
+              "first_seen": "2026-10-20T04:12:12.489Z"
             },
             {
               "node_type": "item",
@@ -3220,7 +3319,7 @@
                 "open_issues": 2,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1938,
+                "stars": 1939,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3239,7 +3338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T03:59:25.530Z",
+    "last_updated": "2026-10-20T04:12:12.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3247,8 +3346,8 @@
       "id": 357182222,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-03T21:49:33Z",
-      "open_issues": 9,
+      "last_commit": "2026-10-19T21:24:25Z",
+      "open_issues": 6,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
       "stars": 624,
@@ -3274,7 +3373,7 @@
         "zakat-calculator"
       ]
     },
-    "original_repository_sha": "2240e33ace03ea3d56673ddf2893d4f5f9705101",
+    "original_repository_sha": "d49e88ae86b2ae402405b06ba5505d99d7d68b75",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
     "enhanced_repository_description": null,
     "title": "Awesome Table of Content with stars"
