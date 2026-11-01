@@ -88,11 +88,11 @@
                 "id": 884817601,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T16:29:57Z",
+                "last_commit": "2026-10-31T13:38:42Z",
                 "open_issues": 0,
                 "owner": "abdessamadbettal",
                 "repo": "Falah",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "adhan",
                   "arabic",
@@ -177,7 +177,7 @@
                 "id": 485511811,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-01T03:32:37Z",
+                "last_commit": "2026-11-01T03:44:29Z",
                 "open_issues": 4,
                 "owner": "fawazahmed0",
                 "repo": "hadiths",
@@ -567,11 +567,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-30T19:06:53Z",
-                    "open_issues": 444,
+                    "last_commit": "2026-10-31T23:16:33Z",
+                    "open_issues": 439,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2426,
+                    "stars": 2427,
                     "topics": [
                       "android",
                       "quran"
@@ -620,7 +620,7 @@
                     "id": 177177812,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T04:37:20Z",
+                    "last_commit": "2026-10-31T21:26:08Z",
                     "open_issues": 38,
                     "owner": "MahmoudMabrok",
                     "repo": "QuranyApp",
@@ -817,11 +817,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-30T19:06:53Z",
-                    "open_issues": 444,
+                    "last_commit": "2026-10-31T23:16:33Z",
+                    "open_issues": 439,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2426,
+                    "stars": 2427,
                     "topics": [
                       "android",
                       "quran"
@@ -1020,7 +1020,7 @@
                     "open_issues": 24,
                     "owner": "Alfanous-team",
                     "repo": "alfanous",
-                    "stars": 285,
+                    "stars": 286,
                     "topics": [
                       "api",
                       "arabic",
@@ -1309,7 +1309,7 @@
                     "id": 1147476674,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-30T13:00:51Z",
+                    "last_commit": "2026-10-31T16:18:45Z",
                     "open_issues": 0,
                     "owner": "MihrabHQ",
                     "repo": "Mihrab",
@@ -1836,7 +1836,7 @@
                 "open_issues": 30,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1205,
+                "stars": 1206,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1851,6 +1851,42 @@
                   "quran-text",
                   "quran-translation",
                   "quran-transliteration"
+                ]
+              },
+              "first_seen": "2026-08-28T10:40:45.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Quran JSON",
+              "description": "Quran JSON ~ 6236 verses, 114 surah, 30 Juz",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Quran JSON ~ 6236 verses, 114 surah, 30 Juz",
+                "homepage": "https://semarketir.github.io/quranjson-web",
+                "id": 40876659,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2021-02-16T01:38:45Z",
+                "open_issues": 11,
+                "owner": "semarketir",
+                "repo": "quranjson",
+                "stars": 823,
+                "topics": [
+                  "audio",
+                  "data",
+                  "islam",
+                  "json",
+                  "juz",
+                  "moslem",
+                  "muslim",
+                  "quran",
+                  "quran-json",
+                  "religion",
+                  "surah",
+                  "tajweed",
+                  "tajwid",
+                  "translation"
                 ]
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -1893,42 +1929,6 @@
                   "rest-api",
                   "tafsir-surahs",
                   "verses"
-                ]
-              },
-              "first_seen": "2026-08-28T10:40:45.455Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Quran JSON",
-              "description": "Quran JSON ~ 6236 verses, 114 surah, 30 Juz",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Quran JSON ~ 6236 verses, 114 surah, 30 Juz",
-                "homepage": "https://semarketir.github.io/quranjson-web",
-                "id": 40876659,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2021-02-16T01:38:45Z",
-                "open_issues": 11,
-                "owner": "semarketir",
-                "repo": "quranjson",
-                "stars": 821,
-                "topics": [
-                  "audio",
-                  "data",
-                  "islam",
-                  "json",
-                  "juz",
-                  "moslem",
-                  "muslim",
-                  "quran",
-                  "quran-json",
-                  "religion",
-                  "surah",
-                  "tajweed",
-                  "tajwid",
-                  "translation"
                 ]
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -1979,10 +1979,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-30T20:16:45Z",
-                "open_issues": 3077,
+                "open_issues": 3083,
                 "owner": "sunnah-com",
                 "repo": "api",
-                "stars": 517,
+                "stars": 518,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2008,7 +2008,7 @@
                 "open_issues": 13,
                 "owner": "AhmedBaset",
                 "repo": "hadith-json",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2484,8 +2484,8 @@
                     "id": 148365174,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T02:09:43Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-01T02:49:38Z",
+                    "open_issues": 4,
                     "owner": "batoulapps",
                     "repo": "adhan-swift",
                     "stars": 238,
@@ -2542,7 +2542,7 @@
                     "id": 148370774,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T03:12:35Z",
+                    "last_commit": "2026-11-01T03:01:57Z",
                     "open_issues": 5,
                     "owner": "batoulapps",
                     "repo": "adhan-js",
@@ -3111,7 +3111,7 @@
                 "open_issues": 27,
                 "owner": "quran",
                 "repo": "quran.com-images",
-                "stars": 511,
+                "stars": 512,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -3326,7 +3326,7 @@
                 "open_issues": 2,
                 "owner": "gaitco",
                 "repo": "quran-database",
-                "stars": 1938,
+                "stars": 1941,
                 "topics": [
                   "gait",
                   "mysql",
@@ -3345,7 +3345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T04:50:54.048Z",
+    "last_updated": "2026-11-01T05:16:22.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
