@@ -92,7 +92,7 @@
                 "open_issues": 0,
                 "owner": "abdessamadbettal",
                 "repo": "Falah",
-                "stars": 162,
+                "stars": 165,
                 "topics": [
                   "adhan",
                   "arabic",
@@ -134,7 +134,7 @@
                 "open_issues": 11,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -567,11 +567,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T20:34:02Z",
-                    "open_issues": 441,
+                    "last_commit": "2026-11-11T22:31:56Z",
+                    "open_issues": 443,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2435,
+                    "stars": 2439,
                     "topics": [
                       "android",
                       "quran"
@@ -591,8 +591,8 @@
                     "id": 48848634,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T14:01:58Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-11-11T22:05:46Z",
+                    "open_issues": 4,
                     "owner": "metinkale38",
                     "repo": "prayer-times-android",
                     "stars": 266,
@@ -620,7 +620,7 @@
                     "id": 177177812,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T18:37:29Z",
+                    "last_commit": "2026-11-12T04:13:39Z",
                     "open_issues": 38,
                     "owner": "MahmoudMabrok",
                     "repo": "QuranyApp",
@@ -817,11 +817,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T20:34:02Z",
-                    "open_issues": 441,
+                    "last_commit": "2026-11-11T22:31:56Z",
+                    "open_issues": 443,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2435,
+                    "stars": 2439,
                     "topics": [
                       "android",
                       "quran"
@@ -1211,11 +1211,11 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T23:50:25Z",
-                    "open_issues": 94,
+                    "last_commit": "2026-11-12T03:52:04Z",
+                    "open_issues": 95,
                     "owner": "quran",
                     "repo": "quran-ios",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "ios",
                       "quran",
@@ -1304,29 +1304,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Mihrab, the Muslim companion — prayer times, the Qur'an, duas and dhikr in one calm, private, open-source app. Android, iOS, iPadOS and Mac.",
+                    "description": "Mihrab, the Muslim companion — prayer times, the Qur'an, duas and dhikr in one calm, private, open-source app. Android, iOS, iPadOS, Mac, Windows, Linux and the web.",
                     "homepage": "https://mihrab.elghamri.se/",
                     "id": 1147476674,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-11T00:58:36Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-12T03:42:44Z",
+                    "open_issues": 2,
                     "owner": "MihrabHQ",
                     "repo": "Mihrab",
-                    "stars": 83,
+                    "stars": 85,
                     "topics": [
                       "adhan",
                       "android",
+                      "electron",
                       "fdroid",
                       "ios",
                       "islam",
                       "islamic",
-                      "islamic-app",
+                      "linux",
                       "macos",
                       "mushaf",
                       "muslim",
-                      "muslim-app",
-                      "muslim-prayer-times",
                       "no-ads",
                       "offline-first",
                       "prayer-times",
@@ -1334,7 +1333,8 @@
                       "qibla",
                       "quran",
                       "react-native",
-                      "salah"
+                      "salah",
+                      "windows"
                     ]
                   },
                   "first_seen": "2026-09-24T03:59:57.920Z"
@@ -1352,7 +1352,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-11-06T20:50:54Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "adelpro",
                     "repo": "open-mushaf-native",
                     "stars": 45,
@@ -1566,7 +1566,7 @@
                     "open_issues": 20,
                     "owner": "rn0x",
                     "repo": "altaqwaa-desktop",
-                    "stars": 276,
+                    "stars": 277,
                     "topics": [
                       "app",
                       "app-islam",
@@ -1678,7 +1678,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-08T06:22:44Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "0xzer0x",
                     "repo": "quran-companion",
                     "stars": 233,
@@ -1836,7 +1836,7 @@
                 "open_issues": 31,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1213,
+                "stars": 1214,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1949,7 +1949,7 @@
                 "open_issues": 78,
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 583,
+                "stars": 585,
                 "topics": [
                   "api",
                   "free",
@@ -1979,10 +1979,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-30T20:16:45Z",
-                "open_issues": 3183,
+                "open_issues": 3198,
                 "owner": "sunnah-com",
                 "repo": "api",
-                "stars": 520,
+                "stars": 521,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2022,6 +2022,37 @@
             },
             {
               "node_type": "item",
+              "title": "Open Hadith Data",
+              "description": "Open Hadith Library of the databases of 9 different books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Hadith Library of the databases of 9 different books (including the Six Books)",
+                "homepage": null,
+                "id": 95475818,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2022-07-30T12:35:58Z",
+                "open_issues": 3,
+                "owner": "mhashim6",
+                "repo": "Open-Hadith-Data",
+                "stars": 235,
+                "topics": [
+                  "arabic-diacritics",
+                  "cross-platform",
+                  "csv-files",
+                  "database",
+                  "hadith",
+                  "library",
+                  "sqlite",
+                  "sqlite-database",
+                  "sqlite3"
+                ]
+              },
+              "first_seen": "2026-08-28T10:40:45.455Z"
+            },
+            {
+              "node_type": "item",
               "title": "Quran App Data",
               "description": "A list of Quran Suras in jsonn, images, tafaseer, hadith books json.",
               "children": [],
@@ -2044,37 +2075,6 @@
                   "names-of-mohamed",
                   "quran",
                   "quran-images"
-                ]
-              },
-              "first_seen": "2026-08-28T10:40:45.455Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Open Hadith Data",
-              "description": "Open Hadith Library of the databases of 9 different books",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open Hadith Library of the databases of 9 different books (including the Six Books)",
-                "homepage": null,
-                "id": 95475818,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2022-07-30T12:35:58Z",
-                "open_issues": 2,
-                "owner": "mhashim6",
-                "repo": "Open-Hadith-Data",
-                "stars": 234,
-                "topics": [
-                  "arabic-diacritics",
-                  "cross-platform",
-                  "csv-files",
-                  "database",
-                  "hadith",
-                  "library",
-                  "sqlite",
-                  "sqlite-database",
-                  "sqlite3"
                 ]
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
@@ -2121,7 +2121,7 @@
                 "open_issues": 11,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -3345,7 +3345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T05:28:51.367Z",
+    "last_updated": "2026-11-12T06:33:27.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
