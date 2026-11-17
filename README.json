@@ -130,11 +130,11 @@
                 "id": 1385221871,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T19:46:18Z",
+                "last_commit": "2026-11-16T15:39:38Z",
                 "open_issues": 11,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 118,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -181,7 +181,7 @@
                 "open_issues": 4,
                 "owner": "fawazahmed0",
                 "repo": "hadiths",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "hadeeth",
                   "hadith",
@@ -567,11 +567,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-15T19:23:05Z",
-                    "open_issues": 445,
+                    "last_commit": "2026-11-17T01:35:42Z",
+                    "open_issues": 446,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2444,
+                    "stars": 2447,
                     "topics": [
                       "android",
                       "quran"
@@ -591,8 +591,8 @@
                     "id": 48848634,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T20:57:45Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-17T07:12:09Z",
+                    "open_issues": 3,
                     "owner": "metinkale38",
                     "repo": "prayer-times-android",
                     "stars": 266,
@@ -817,11 +817,11 @@
                     "id": 483644,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-15T19:23:05Z",
-                    "open_issues": 445,
+                    "last_commit": "2026-11-17T01:35:42Z",
+                    "open_issues": 446,
                     "owner": "quran",
                     "repo": "quran_android",
-                    "stars": 2444,
+                    "stars": 2447,
                     "topics": [
                       "android",
                       "quran"
@@ -1211,8 +1211,8 @@
                     "id": 55992036,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T03:11:28Z",
-                    "open_issues": 95,
+                    "last_commit": "2026-11-17T04:50:56Z",
+                    "open_issues": 81,
                     "owner": "quran",
                     "repo": "quran-ios",
                     "stars": 601,
@@ -1309,11 +1309,11 @@
                     "id": 1147476674,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-15T12:14:03Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-16T16:42:17Z",
+                    "open_issues": 1,
                     "owner": "MihrabHQ",
                     "repo": "Mihrab",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": [
                       "adhan",
                       "android",
@@ -1426,6 +1426,48 @@
                     ]
                   },
                   "first_seen": "2026-08-28T10:40:45.455Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Simple Prayer",
+                  "description": "Ad-free prayer times, qibla and gentle prayer tracking for iOS, Android, Apple Watch and Wear OS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Calm Muslim prayer times, qibla and a one-tap prayer log for iOS, Android, Wear OS and Apple Watch. Free, no ads, no account. Expo / React Native.",
+                    "homepage": "https://simpleprayer.app",
+                    "id": 1450148739,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-11-17T06:26:30Z",
+                    "open_issues": 3,
+                    "owner": "majani-plus",
+                    "repo": "simple-prayer-app",
+                    "stars": 0,
+                    "topics": [
+                      "adhan",
+                      "android",
+                      "expo",
+                      "hijri-calendar",
+                      "home-screen-widgets",
+                      "i18n",
+                      "ios",
+                      "islam",
+                      "mobile-app",
+                      "muslim",
+                      "offline-first",
+                      "prayer-times",
+                      "privacy",
+                      "qibla",
+                      "ramadan",
+                      "react-native",
+                      "salah",
+                      "typescript",
+                      "watchos",
+                      "wear-os"
+                    ]
+                  },
+                  "first_seen": "2026-11-17T07:18:18.274Z"
                 }
               ],
               "description": null,
@@ -1836,7 +1878,7 @@
                 "open_issues": 31,
                 "owner": "fawazahmed0",
                 "repo": "quran-api",
-                "stars": 1217,
+                "stars": 1218,
                 "topics": [
                   "al-quran",
                   "api",
@@ -1871,7 +1913,7 @@
                 "open_issues": 11,
                 "owner": "semarketir",
                 "repo": "quranjson",
-                "stars": 823,
+                "stars": 822,
                 "topics": [
                   "audio",
                   "data",
@@ -1949,7 +1991,7 @@
                 "open_issues": 80,
                 "owner": "fawazahmed0",
                 "repo": "hadith-api",
-                "stars": 588,
+                "stars": 590,
                 "topics": [
                   "api",
                   "free",
@@ -1979,7 +2021,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-30T20:16:45Z",
-                "open_issues": 3239,
+                "open_issues": 3247,
                 "owner": "sunnah-com",
                 "repo": "api",
                 "stars": 522,
@@ -2008,7 +2050,7 @@
                 "open_issues": 13,
                 "owner": "AhmedBaset",
                 "repo": "hadith-json",
-                "stars": 347,
+                "stars": 348,
                 "topics": [
                   "hadith",
                   "islam",
@@ -2117,11 +2159,11 @@
                 "id": 1385221871,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T19:46:18Z",
+                "last_commit": "2026-11-16T15:39:38Z",
                 "open_issues": 11,
                 "owner": "raaqimorg",
                 "repo": "qafiyah",
-                "stars": 118,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-09-25T04:14:46.430Z"
@@ -2146,6 +2188,32 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T10:40:45.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SalahTable Open Data",
+              "description": "Reproducible 2027 prayer-time CSV data for 307 cities in seven countries, both Asr schools, and six-method comparisons; data CC BY 4.0, generation code MIT. Preview",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open calculated prayer times for 307 cities, two Asr schools, and reproducible method comparisons. CC BY 4.0 data.",
+                "homepage": "https://salahtable.com/open-data",
+                "id": 1442448832,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-02T03:09:00Z",
+                "open_issues": 0,
+                "owner": "xucheng2024",
+                "repo": "salahtable-open-data",
+                "stars": 0,
+                "topics": [
+                  "astronomy",
+                  "dataset",
+                  "open-data",
+                  "prayer-times"
+                ]
+              },
+              "first_seen": "2026-11-17T07:18:18.274Z"
             },
             {
               "node_type": "item",
@@ -2393,7 +2461,7 @@
                     "open_issues": 14,
                     "owner": "ahmedeltaher",
                     "repo": "azan-mcp",
-                    "stars": 384,
+                    "stars": 385,
                     "topics": [
                       "adhan",
                       "adhan-player",
@@ -3345,7 +3413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T05:40:56.796Z",
+    "last_updated": "2026-11-17T07:18:18.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
@@ -3353,11 +3421,11 @@
       "id": 357182222,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-27T21:34:50Z",
-      "open_issues": 14,
+      "last_commit": "2026-11-16T20:32:54Z",
+      "open_issues": 13,
       "owner": "choubari",
       "repo": "Awesome-Muslims",
-      "stars": 630,
+      "stars": 631,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3380,7 +3448,7 @@
         "zakat-calculator"
       ]
     },
-    "original_repository_sha": "07ac7c2e72085b21fce4bb104479785f8a1bd103",
+    "original_repository_sha": "c9e426d35474cd23b524c2e483b6c53b69c54b7c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Muslims",
     "enhanced_repository_description": null,
     "title": "Awesome Table of Content with stars"
